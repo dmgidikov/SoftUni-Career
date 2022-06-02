@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\_10.Invalid_Number.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\_10.Invalid_Number.pdb

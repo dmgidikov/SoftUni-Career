@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\_06.Operations_Between_Numbers.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\_06.Operations_Between_Numbers.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\_06.Operations_Between_Numbers.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\06. Operations Between Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\06. Operations Between Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\_06.Operations_Between_Numbers.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\_06.Operations_Between_Numbers.pdb

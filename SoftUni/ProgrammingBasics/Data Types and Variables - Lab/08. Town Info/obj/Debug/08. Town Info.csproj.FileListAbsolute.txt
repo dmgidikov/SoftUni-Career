@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\bin\Debug\_08.Town_Info.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\bin\Debug\_08.Town_Info.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\bin\Debug\_08.Town_Info.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\obj\Debug\08. Town Info.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\obj\Debug\08. Town Info.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\obj\Debug\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\obj\Debug\_08.Town_Info.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\08. Town Info\obj\Debug\_08.Town_Info.pdb

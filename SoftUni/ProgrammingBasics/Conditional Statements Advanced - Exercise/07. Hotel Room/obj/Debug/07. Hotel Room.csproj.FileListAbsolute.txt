@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\_07.Hotel_Room.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\_07.Hotel_Room.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\_07.Hotel_Room.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\07. Hotel Room.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\07. Hotel Room.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\_07.Hotel_Room.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\_07.Hotel_Room.pdb

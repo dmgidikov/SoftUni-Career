@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\_10.Lower_or_Upper.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\_10.Lower_or_Upper.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\_10.Lower_or_Upper.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\10. Lower or Upper.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\10. Lower or Upper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\_10.Lower_or_Upper.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\_10.Lower_or_Upper.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\_10.Odd_Even_Sum.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\_10.Odd_Even_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\_10.Odd_Even_Sum.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\10. Odd Even Sum.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\10. Odd Even Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\_10.Odd_Even_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\_10.Odd_Even_Sum.pdb

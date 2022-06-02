@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\_08.On_Time_for_the_Exam.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\_08.On_Time_for_the_Exam.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\_08.On_Time_for_the_Exam.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\08. On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\08. On Time for the Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\_08.On_Time_for_the_Exam.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\_08.On_Time_for_the_Exam.pdb

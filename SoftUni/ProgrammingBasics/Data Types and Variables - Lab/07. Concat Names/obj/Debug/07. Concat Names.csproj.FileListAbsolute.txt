@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\_07.Concat_Names.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\_07.Concat_Names.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\_07.Concat_Names.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\07. Concat Names.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\07. Concat Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\_07.Concat_Names.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\_07.Concat_Names.pdb

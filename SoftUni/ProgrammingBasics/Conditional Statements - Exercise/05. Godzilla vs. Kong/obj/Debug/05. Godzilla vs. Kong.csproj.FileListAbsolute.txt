@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\_05.Godzilla_vs.Kong.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\_05.Godzilla_vs.Kong.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\_05.Godzilla_vs.Kong.pdb
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\05. Godzilla vs. Kong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\_05.Godzilla_vs.Kong.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\_05.Godzilla_vs.Kong.pdb

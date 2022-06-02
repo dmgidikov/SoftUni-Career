@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\_06.Vowels_Sum.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\_06.Vowels_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\_06.Vowels_Sum.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\06. Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\06. Vowels Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\_06.Vowels_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\_06.Vowels_Sum.pdb

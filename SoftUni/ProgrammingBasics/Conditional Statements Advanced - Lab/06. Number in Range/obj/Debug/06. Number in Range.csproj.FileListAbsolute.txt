@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.pdb

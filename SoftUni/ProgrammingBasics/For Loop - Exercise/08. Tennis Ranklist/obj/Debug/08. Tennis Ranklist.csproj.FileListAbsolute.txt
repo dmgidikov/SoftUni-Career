@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\_08.Tennis_Ranklist.exe.config
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\_08.Tennis_Ranklist.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\_08.Tennis_Ranklist.pdb
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\08. Tennis Ranklist.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\08. Tennis Ranklist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\_08.Tennis_Ranklist.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\_08.Tennis_Ranklist.pdb

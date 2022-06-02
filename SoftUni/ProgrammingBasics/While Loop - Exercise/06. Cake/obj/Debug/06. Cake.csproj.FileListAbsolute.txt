@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe.config
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\bin\Debug\_06.Cake.pdb
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\obj\Debug\06. Cake.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\obj\Debug\06. Cake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\obj\Debug\06. Cake.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\obj\Debug\_06.Cake.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\06. Cake\obj\Debug\_06.Cake.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\bin\Debug\_05.Salary.exe.config
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\bin\Debug\_05.Salary.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\bin\Debug\_05.Salary.pdb
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\obj\Debug\05. Salary.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\obj\Debug\05. Salary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\obj\Debug\05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\obj\Debug\_05.Salary.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\05. Salary\obj\Debug\_05.Salary.pdb

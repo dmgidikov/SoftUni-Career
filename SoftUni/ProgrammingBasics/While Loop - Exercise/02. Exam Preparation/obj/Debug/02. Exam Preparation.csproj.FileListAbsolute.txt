@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\_02.Exam_Preparation.exe.config
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\_02.Exam_Preparation.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\bin\Debug\_02.Exam_Preparation.pdb
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\02. Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\02. Exam Preparation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\_02.Exam_Preparation.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\02. Exam Preparation\obj\Debug\_02.Exam_Preparation.pdb

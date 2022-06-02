@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\07.Working Hours.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\07.Working Hours.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\07.Working Hours.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\07.Working Hours.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\07.Working Hours.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\07.Working Hours.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\07.Working Hours.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\07.Working Hours.pdb

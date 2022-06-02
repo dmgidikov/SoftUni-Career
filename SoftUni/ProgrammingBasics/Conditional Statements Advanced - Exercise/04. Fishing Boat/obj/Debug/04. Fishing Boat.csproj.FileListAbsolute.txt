@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\_04.Fishing_Boat.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\_04.Fishing_Boat.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\_04.Fishing_Boat.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\04. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\04. Fishing Boat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\_04.Fishing_Boat.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\_04.Fishing_Boat.pdb

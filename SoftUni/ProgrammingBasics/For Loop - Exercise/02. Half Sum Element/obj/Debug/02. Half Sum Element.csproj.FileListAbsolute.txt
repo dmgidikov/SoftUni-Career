@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.exe.config
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.pdb
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\02. Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\02. Half Sum Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\_02.Half_Sum_Element.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\02. Half Sum Element\obj\Debug\_02.Half_Sum_Element.pdb

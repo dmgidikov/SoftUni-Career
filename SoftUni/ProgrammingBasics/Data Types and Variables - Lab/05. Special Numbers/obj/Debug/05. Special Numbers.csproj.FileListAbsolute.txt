@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

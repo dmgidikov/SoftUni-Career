@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\_12.Refactor_Special_Numbers.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\_12.Refactor_Special_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\_12.Refactor_Special_Numbers.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\12. Refactor Special Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\_12.Refactor_Special_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\_12.Refactor_Special_Numbers.pdb

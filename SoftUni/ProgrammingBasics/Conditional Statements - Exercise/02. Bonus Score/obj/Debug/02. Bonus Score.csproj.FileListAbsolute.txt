@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\_02.Bonus_Score.pdb
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\02. Bonus Score.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\02. Bonus Score.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\_02.Bonus_Score.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\_02.Bonus_Score.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\_06.World_Swimming_Record.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\_06.World_Swimming_Record.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\_06.World_Swimming_Record.pdb
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\06. World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\06. World Swimming Record.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\06. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\_06.World_Swimming_Record.exe
+C:\Users\Deyan\source\repos\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\_06.World_Swimming_Record.pdb

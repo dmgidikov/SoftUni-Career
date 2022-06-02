@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\bin\Debug\_07.Min_Number.exe.config
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\bin\Debug\_07.Min_Number.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\bin\Debug\_07.Min_Number.pdb
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\obj\Debug\07. Min Number.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\obj\Debug\07. Min Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\obj\Debug\07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\obj\Debug\_07.Min_Number.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\07. Min Number\obj\Debug\_07.Min_Number.pdb

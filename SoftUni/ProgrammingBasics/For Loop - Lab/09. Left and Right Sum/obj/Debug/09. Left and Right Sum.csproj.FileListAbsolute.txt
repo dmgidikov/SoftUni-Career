@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\bin\Debug\_09.Left_and_Right_Sum.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\bin\Debug\_09.Left_and_Right_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\bin\Debug\_09.Left_and_Right_Sum.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\obj\Debug\09. Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\obj\Debug\09. Left and Right Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\obj\Debug\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\obj\Debug\_09.Left_and_Right_Sum.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\09. Left and Right Sum\obj\Debug\_09.Left_and_Right_Sum.pdb

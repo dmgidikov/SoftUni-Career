@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\_12.Trade_Commissions.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\_12.Trade_Commissions.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\_12.Trade_Commissions.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\12. Trade Commissions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\_12.Trade_Commissions.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\_12.Trade_Commissions.pdb

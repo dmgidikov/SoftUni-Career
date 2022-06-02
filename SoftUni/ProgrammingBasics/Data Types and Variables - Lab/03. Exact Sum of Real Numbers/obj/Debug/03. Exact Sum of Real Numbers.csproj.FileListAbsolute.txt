@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

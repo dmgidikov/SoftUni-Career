@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\bin\Debug\_03.Numbers_1toN_with_Step_3.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\bin\Debug\_03.Numbers_1toN_with_Step_3.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\bin\Debug\_03.Numbers_1toN_with_Step_3.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\obj\Debug\03. Numbers 1toN with Step 3.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\obj\Debug\03. Numbers 1toN with Step 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\obj\Debug\03. Numbers 1toN with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\obj\Debug\_03.Numbers_1toN_with_Step_3.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\03. Numbers 1toN with Step 3\obj\Debug\_03.Numbers_1toN_with_Step_3.pdb

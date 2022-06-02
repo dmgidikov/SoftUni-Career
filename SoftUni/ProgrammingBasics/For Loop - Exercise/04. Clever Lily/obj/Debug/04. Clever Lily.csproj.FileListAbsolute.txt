@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\_04.Clever_Lily.exe.config
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\_04.Clever_Lily.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\bin\Debug\_04.Clever_Lily.pdb
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\_04.Clever_Lily.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\04. Clever Lily\obj\Debug\_04.Clever_Lily.pdb

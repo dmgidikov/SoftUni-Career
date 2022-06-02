@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\bin\Debug\_04.Walking.exe.config
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\bin\Debug\_04.Walking.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\bin\Debug\_04.Walking.pdb
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\obj\Debug\04. Walking.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\obj\Debug\04. Walking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\obj\Debug\04. Walking.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\obj\Debug\_04.Walking.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\04. Walking\obj\Debug\_04.Walking.pdb

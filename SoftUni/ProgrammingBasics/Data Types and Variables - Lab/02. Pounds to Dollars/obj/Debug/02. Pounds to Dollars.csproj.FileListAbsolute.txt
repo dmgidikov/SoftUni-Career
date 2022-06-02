@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\_02.Pounds_to_Dollars.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\_02.Pounds_to_Dollars.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\_02.Pounds_to_Dollars.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\02. Pounds to Dollars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\_02.Pounds_to_Dollars.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\_02.Pounds_to_Dollars.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\_05.Account_Balance.exe.config
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\_05.Account_Balance.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\bin\Debug\_05.Account_Balance.pdb
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\05. Account Balance.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\05. Account Balance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\_05.Account_Balance.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\05. Account Balance\obj\Debug\_05.Account_Balance.pdb

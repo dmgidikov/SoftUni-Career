@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\_11.Fruit_Shop.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\_11.Fruit_Shop.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\_11.Fruit_Shop.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\11. Fruit Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\_11.Fruit_Shop.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\_11.Fruit_Shop.pdb

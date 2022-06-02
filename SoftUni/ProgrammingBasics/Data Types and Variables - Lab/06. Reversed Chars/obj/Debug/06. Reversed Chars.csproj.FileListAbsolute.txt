@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\_06.Reversed_Chars.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\_06.Reversed_Chars.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\_06.Reversed_Chars.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\06. Reversed Chars.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\06. Reversed Chars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\_06.Reversed_Chars.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\_06.Reversed_Chars.pdb

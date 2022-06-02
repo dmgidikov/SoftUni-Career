@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe.config
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\bin\Debug\_05.Coins.pdb
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\obj\Debug\05. Coins.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\obj\Debug\05. Coins.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\obj\Debug\05. Coins.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\obj\Debug\_05.Coins.exe
+C:\Users\Deyan\source\repos\While Loop - Exercise\05. Coins\obj\Debug\_05.Coins.pdb

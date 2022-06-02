@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\_09.Chars_to_String.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\_09.Chars_to_String.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\bin\Debug\_09.Chars_to_String.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\09. Chars to String.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\09. Chars to String.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\_09.Chars_to_String.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\09. Chars to String\obj\Debug\_09.Chars_to_String.pdb

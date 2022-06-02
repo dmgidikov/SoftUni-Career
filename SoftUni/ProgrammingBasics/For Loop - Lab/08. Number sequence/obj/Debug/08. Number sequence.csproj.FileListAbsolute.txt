@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\_08.Number_sequence.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\_08.Number_sequence.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\_08.Number_sequence.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\08. Number sequence.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\08. Number sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\_08.Number_sequence.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\_08.Number_sequence.pdb

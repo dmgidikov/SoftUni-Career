@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\_04.Sequence_2k_1.exe.config
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\_04.Sequence_2k_1.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\bin\Debug\_04.Sequence_2k_1.pdb
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\04. Sequence 2k+1.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\04. Sequence 2k+1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\_04.Sequence_2k_1.exe
+C:\Users\Deyan\source\repos\While Loop - Lab\04. Sequence 2k+1\obj\Debug\_04.Sequence_2k_1.pdb

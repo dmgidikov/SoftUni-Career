@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\_01.Convert_Meters_to_Kilometers.exe.config
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\_01.Convert_Meters_to_Kilometers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\_01.Convert_Meters_to_Kilometers.pdb
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\01. Convert Meters to Kilometers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\_01.Convert_Meters_to_Kilometers.exe
+C:\Users\Deyan\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\_01.Convert_Meters_to_Kilometers.pdb

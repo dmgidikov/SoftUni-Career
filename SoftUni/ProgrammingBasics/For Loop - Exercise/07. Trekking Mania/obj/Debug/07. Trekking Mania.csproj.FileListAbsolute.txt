@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\_07.Trekking_Mania.exe.config
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\_07.Trekking_Mania.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\bin\Debug\_07.Trekking_Mania.pdb
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\07. Trekking Mania.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\07. Trekking Mania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\_07.Trekking_Mania.exe
+C:\Users\Deyan\source\repos\For Loop - Exercise\07. Trekking Mania\obj\Debug\_07.Trekking_Mania.pdb

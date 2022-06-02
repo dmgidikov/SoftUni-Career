@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\_03.New_House.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\_03.New_House.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\_03.New_House.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\03. New House.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\03. New House.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\_03.New_House.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\_03.New_House.pdb

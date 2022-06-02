@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\_05.Character_Sequence.exe.config
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\_05.Character_Sequence.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\bin\Debug\_05.Character_Sequence.pdb
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\05. Character Sequence.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\05. Character Sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\_05.Character_Sequence.exe
+C:\Users\Deyan\source\repos\For Loop - Lab\05. Character Sequence\obj\Debug\_05.Character_Sequence.pdb

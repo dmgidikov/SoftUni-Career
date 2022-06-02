@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.exe.config
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.pdb
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\_05.Small_Shop.exe
+C:\Users\Deyan\source\repos\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\_05.Small_Shop.pdb
