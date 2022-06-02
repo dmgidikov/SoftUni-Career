@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\_09.Sum_of_Odd_Numbers.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\_09.Sum_of_Odd_Numbers.pdb

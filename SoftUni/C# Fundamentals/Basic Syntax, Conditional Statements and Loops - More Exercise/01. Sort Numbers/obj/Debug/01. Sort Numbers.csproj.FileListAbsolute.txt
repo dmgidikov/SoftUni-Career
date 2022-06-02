@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\_01.Sort_Numbers.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\_01.Sort_Numbers.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\bin\Debug\_01.Sort_Numbers.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\01. Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\01. Sort Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\_01.Sort_Numbers.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\01. Sort Numbers\obj\Debug\_01.Sort_Numbers.pdb

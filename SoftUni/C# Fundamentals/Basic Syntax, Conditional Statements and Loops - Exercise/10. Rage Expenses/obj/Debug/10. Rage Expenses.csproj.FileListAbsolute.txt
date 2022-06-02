@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\_10.Rage_Expenses.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\_10.Rage_Expenses.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\_10.Rage_Expenses.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\10. Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\10. Rage Expenses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\_10.Rage_Expenses.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\_10.Rage_Expenses.pdb

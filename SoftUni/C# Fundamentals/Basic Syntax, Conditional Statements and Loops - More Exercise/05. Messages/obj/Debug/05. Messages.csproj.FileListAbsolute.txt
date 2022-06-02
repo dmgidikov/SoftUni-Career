@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\_05.Messages.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\_05.Messages.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\_05.Messages.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\05. Messages.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\05. Messages.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\05. Messages.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\_05.Messages.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\_05.Messages.pdb

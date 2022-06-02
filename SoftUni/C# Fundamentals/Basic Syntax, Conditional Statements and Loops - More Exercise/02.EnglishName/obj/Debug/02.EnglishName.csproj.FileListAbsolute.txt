@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\bin\Debug\02.EnglishName.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\02.EnglishName\obj\Debug\02.EnglishName.pdb

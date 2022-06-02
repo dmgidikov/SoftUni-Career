@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\_03.Vacation.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\_03.Vacation.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\_03.Vacation.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\03. Vacation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\_03.Vacation.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\_03.Vacation.pdb
