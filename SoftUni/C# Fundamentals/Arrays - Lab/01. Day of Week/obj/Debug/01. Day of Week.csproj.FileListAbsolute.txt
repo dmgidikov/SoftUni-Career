@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+C:\Users\Deyan\source\repos\Arrays - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb
