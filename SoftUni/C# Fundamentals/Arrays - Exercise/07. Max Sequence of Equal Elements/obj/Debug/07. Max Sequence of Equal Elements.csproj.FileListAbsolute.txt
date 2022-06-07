@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\_07.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\07. Max Sequence of Equal Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\_07.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\_07.Max_Sequence_of_Equal_Elements.pdb
