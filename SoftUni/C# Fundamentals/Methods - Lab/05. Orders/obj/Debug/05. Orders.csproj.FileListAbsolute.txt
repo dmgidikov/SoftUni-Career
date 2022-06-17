@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\bin\Debug\_05.Orders.exe.config
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\bin\Debug\_05.Orders.exe
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\bin\Debug\_05.Orders.pdb
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\obj\Debug\05. Orders.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\obj\Debug\05. Orders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\obj\Debug\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\obj\Debug\_05.Orders.exe
+C:\Users\Deyan\source\repos\Methods - Lab\05. Orders\obj\Debug\_05.Orders.pdb

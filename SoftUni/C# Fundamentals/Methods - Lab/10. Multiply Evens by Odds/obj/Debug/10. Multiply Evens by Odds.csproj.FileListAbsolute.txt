@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.exe.config
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.exe
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.pdb
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\10. Multiply Evens by Odds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\_10.Multiply_Evens_by_Odds.exe
+C:\Users\Deyan\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\_10.Multiply_Evens_by_Odds.pdb

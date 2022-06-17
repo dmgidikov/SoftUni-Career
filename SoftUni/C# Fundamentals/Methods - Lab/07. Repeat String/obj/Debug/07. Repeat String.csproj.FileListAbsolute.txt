@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\bin\Debug\_07.Repeat_String.exe.config
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\bin\Debug\_07.Repeat_String.exe
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\bin\Debug\_07.Repeat_String.pdb
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\obj\Debug\07. Repeat String.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\obj\Debug\07. Repeat String.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\obj\Debug\07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\obj\Debug\_07.Repeat_String.exe
+C:\Users\Deyan\source\repos\Methods - Lab\07. Repeat String\obj\Debug\_07.Repeat_String.pdb

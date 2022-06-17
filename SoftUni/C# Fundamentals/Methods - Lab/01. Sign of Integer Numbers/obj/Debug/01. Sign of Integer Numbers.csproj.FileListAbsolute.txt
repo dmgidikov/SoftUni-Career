@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\_01.Sign_of_Integer_Numbers.exe.config
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\_01.Sign_of_Integer_Numbers.exe
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\_01.Sign_of_Integer_Numbers.pdb
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\01. Sign of Integer Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\_01.Sign_of_Integer_Numbers.exe
+C:\Users\Deyan\source\repos\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\_01.Sign_of_Integer_Numbers.pdb
