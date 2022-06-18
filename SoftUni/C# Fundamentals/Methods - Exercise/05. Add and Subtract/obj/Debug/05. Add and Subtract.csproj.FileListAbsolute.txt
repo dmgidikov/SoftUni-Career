@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.exe.config
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\_05.Add_and_Subtract.pdb
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\05. Add and Subtract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\_05.Add_and_Subtract.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\_05.Add_and_Subtract.pdb

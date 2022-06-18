@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\bin\Debug\_11.Math_operations.exe.config
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\bin\Debug\_11.Math_operations.exe
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\bin\Debug\_11.Math_operations.pdb
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\obj\Debug\11. Math operations.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\obj\Debug\11. Math operations.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\obj\Debug\11. Math operations.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\obj\Debug\_11.Math_operations.exe
-C:\Users\Deyan\source\repos\Methods - Lab\11. Math operations\obj\Debug\_11.Math_operations.pdb
