@@ -1,0 +1,8 @@
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\_01.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\_01.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\_01.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\01. Sum Adjacent Equal Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\_01.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\_01.Sum_Adjacent_Equal_Numbers.pdb

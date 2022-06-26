@@ -1,0 +1,8 @@
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\bin\Debug\_02.Gauss__Trick.exe.config
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\bin\Debug\_02.Gauss__Trick.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\bin\Debug\_02.Gauss__Trick.pdb
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\obj\Debug\02. Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\obj\Debug\02. Gauss' Trick.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\obj\Debug\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\obj\Debug\_02.Gauss__Trick.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\02. Gauss' Trick\obj\Debug\_02.Gauss__Trick.pdb

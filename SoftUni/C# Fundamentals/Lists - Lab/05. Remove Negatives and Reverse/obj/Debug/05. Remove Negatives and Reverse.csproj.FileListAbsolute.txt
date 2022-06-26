@@ -1,0 +1,8 @@
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\_05.Remove_Negatives_and_Reverse.exe.config
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\_05.Remove_Negatives_and_Reverse.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\_05.Remove_Negatives_and_Reverse.pdb
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\05. Remove Negatives and Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\_05.Remove_Negatives_and_Reverse.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\_05.Remove_Negatives_and_Reverse.pdb
