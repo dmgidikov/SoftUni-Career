@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.runtimeconfig.dev.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\netcoreapp3.1\1. Reverse a String.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\netcoreapp3.1\1. Reverse a String.genruntimeconfig.cache
