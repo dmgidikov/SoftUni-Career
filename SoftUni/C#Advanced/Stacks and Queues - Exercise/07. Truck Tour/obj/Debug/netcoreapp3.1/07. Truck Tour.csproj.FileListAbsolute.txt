@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.dev.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.genruntimeconfig.cache
