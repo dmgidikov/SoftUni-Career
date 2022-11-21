@@ -12,47 +12,51 @@ namespace _07.Truck_Tour
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            var petrol = new Queue<int>();
-            var distance = new Queue<int>();
-            int[] input;
-            for (int i = 0; i < n; i++)
+
+            var pumps = new Queue<int[]>();
+
+            EnquePumps(n, pumps);
+
+            var counter = 0;
+
+            while (true)
             {
-                input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-                petrol.Enqueue(input[0]);
-                distance.Enqueue(input[1]);
-            }
-            int currentFuel;
-            var petrolCopy = new Queue<int>();
-            var distanceCopy = new Queue<int>();
-            for (int i = 0; i < n; i++)
-            {
-                currentFuel = petrol.Peek();
-                for (int x = 0; x < n; x++)
+                var fuelAmount = 0;
+                var foundPoint = true;
+
+                foreach (var pump in pumps)
                 {
-                    if (distance.Peek() <= currentFuel)
+                    fuelAmount += pump[0];
+
+                    if (fuelAmount < pump[1])
                     {
-                        currentFuel -= distance.Peek();
-                        if (x == n - 1)
-                        {
-                            Console.WriteLine(i);
-                            return;
-                        }
-                    }
-                    else
-                    {
-                        for (int y = x; y < n; y++)
-                        {
-                            petrol.Enqueue(petrol.Dequeue());
-                            distance.Enqueue(distance.Dequeue());
-                        }
+                        foundPoint = false;
                         break;
                     }
-                    petrol.Enqueue(petrol.Dequeue());
-                    distance.Enqueue(distance.Dequeue());
-                    currentFuel += petrol.Peek();
+
+                    fuelAmount -= pump[1];
                 }
-                petrol.Enqueue(petrol.Dequeue());
-                distance.Enqueue(distance.Dequeue());
+
+                if (foundPoint)
+                {
+                    break;
+                }
+
+                counter++;
+
+                pumps.Enqueue(pumps.Dequeue());
+            }
+
+            Console.WriteLine(counter);
+
+        }
+
+        private static void EnquePumps(int n, Queue<int[]> pumps)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                var currentPump = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                pumps.Enqueue(currentPump);
             }
         }
     }
