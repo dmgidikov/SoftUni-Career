@@ -1,52 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Basic_Stack_Operations
+﻿namespace _01._Basic_Stack_Operations
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             var commands = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            var nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            var numsToAdd = commands[0];
-            var numsToRemove = commands[1];
-            var numToCheck = commands[2];
+            var stack = new Stack<int>(nums);
 
-            var randomNums = Console.ReadLine().Split().Select(int.Parse).ToList();
-
-            var randomStack = new Stack<int>();
-
-            for (int i = 0; i < numsToAdd; i++)
+            if (stack.Count >= commands[1])
             {
-                var temp = randomNums[i];
-                randomStack.Push(temp);
-            }
-
-            for (int i = 0; i < numsToRemove; i++)
-            {
-                randomStack.Pop();
-            }
-
-            if (randomStack.Contains(numToCheck))
-            {
-                Console.WriteLine("true");
-            }
-            else
-            {
-                if (randomStack.Any())
+                while (commands[1] > 0)
                 {
-                    Console.WriteLine(randomStack.Min());
+                    stack.Pop();
+                    commands[1]--;
+                }
+            }
+
+            if (stack.Any())
+            {
+                if (stack.Contains(commands[2]))
+                {
+                    Console.WriteLine("true");
                 }
                 else
                 {
-                    Console.WriteLine(0);
+                    Console.WriteLine(stack.Min());
                 }
             }
+            else
+            {
+                Console.WriteLine(0);
+            }
+           
         }
     }
 }

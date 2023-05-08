@@ -2,8 +2,10 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_05.Fashion_Boutique</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_05._Fashion_Boutique</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>

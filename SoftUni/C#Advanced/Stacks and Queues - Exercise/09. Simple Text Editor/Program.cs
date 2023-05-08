@@ -1,91 +1,58 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
-namespace _09.Simple_Text_Editor
+namespace _09._Simple_Text_Editor
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var commandNumber = int.Parse(Console.ReadLine());
+            var rotations = int.Parse(Console.ReadLine());
 
-            var myStack = new Queue<char>();
-            var allDeletedText = new Queue<char>();
+            var text = string.Empty;
+            var stack = new Stack<string>();
+            stack.Push(text);
 
-            var allCommands = new Stack<string>();
-
-            for (int i = 0; i < commandNumber; i++)
+            for (int i = 0; i < rotations; i++)
             {
-                var input = Console.ReadLine();
+                var input = Console.ReadLine().Split();
+                var lastText = stack.Peek();
 
-                if (input[0] != '3' && input[0] != '4')
+                var command = input[0];
+
+                if (command == "1")
                 {
-                    allCommands.Push(input);
+                    var currentText = input[1];
+
+                    lastText += currentText;
+                    stack.Push(lastText);
                 }
-
-                if (input.StartsWith("1"))
+                else if (command == "2")
                 {
-                    var addText = input.Substring(2);
+                    var temp = int.Parse(input[1]);
 
-                    for (int j = 0; j < addText.Length; j++)
+                    if (lastText.Length > temp)
                     {
-                        myStack.Enqueue(addText[j]);
-                    }                   
-                }
-                else if (input.StartsWith('2'))
-                {
-                    if (myStack.Any())
-                    {
-                        var eraseNums = int.Parse(input.Substring(2));
-
-                        if (myStack.Count >= eraseNums)
-                        {
-                            for (int j = 0; j < eraseNums; j++)
-                            {
-                                var currentChar = myStack.Peek();
-                                myStack.Dequeue();
-                                allDeletedText.Enqueue(currentChar);
-                            }
-                        }
-                    }
-                }
-                else if (input.StartsWith('3'))
-                {
-                    var getIndex = int.Parse(input.Substring(2));
-                    var currentList = new List<char>(myStack);
-                    Console.WriteLine(currentList[getIndex - 1]);
-                }
-                else 
-                {
-                    var lastCommand = allCommands.Pop();
-
-                    if (lastCommand.StartsWith('1'))
-                    {
-                        var charsToAdd = lastCommand.Substring(2);
-
-                        for (int j = 0; j < charsToAdd.Length; j++)
-                        {
-                            var current = myStack.Peek();
-                            myStack.Dequeue();
-                            allDeletedText.Enqueue(current);
-                        }
+                        lastText.Substring(lastText.Length - temp, temp);
+                        stack.Push(lastText);
                     }
                     else
                     {
-                        var charsToDelete = lastCommand.Substring(2);
-                        var rotations = int.Parse(charsToDelete);
-
-                        for (int j = 0; j < rotations; j++)
-                        {
-                            var current = allDeletedText.Peek();
-                            myStack.Enqueue(current);
-                            allDeletedText.Dequeue();
-                        }
+                        var newText = string.Empty;
+                        stack.Push(newText);
                     }
+                }
+                else if (command == "3")
+                {
+                    var index = int.Parse(input[1]);
+
+                    if (lastText.Length >= index)
+                    {
+                        Console.WriteLine(lastText[index - 1]);
+                    }
+                }
+                else if (command == "4")
+                {
+                    stack.Pop();
                 }
             }
         }

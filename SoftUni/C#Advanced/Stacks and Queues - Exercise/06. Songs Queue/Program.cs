@@ -1,53 +1,41 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.Songs_Queue
+﻿namespace _06._Songs_Queue
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var firstSongs = Console.ReadLine().Split(", ");
+            var randomSongs = Console.ReadLine().Split(", ");
 
-            var myAlbum = new Queue<string>(firstSongs);
+            var playlist = new Queue<string>(randomSongs);
 
             while (true)
-            {
-                if (myAlbum.Any())
+            {                
+                if (playlist.Any())
                 {
-                    var command = Console.ReadLine().Split();
+                    var command = Console.ReadLine();
 
-                    if (command[0] == "Play")
+                    if (command.StartsWith("Play"))
                     {
-                        myAlbum.Dequeue();
+                        playlist.Dequeue();
                     }
-                    else if (command[0] == "Show")
+                    else if (command.StartsWith("Add"))
                     {
-                        Console.WriteLine(string.Join(", ", myAlbum));
-                    }
-                    else
-                    {
-                        var songToBeAdded = string.Empty;
+                        var song = command.Substring(4);
 
-                        for (int i = 1; i < command.Length; i++)
+                        if (playlist.Contains(song) == false)
                         {
-                            var current = command[i];
-                            songToBeAdded+= current + " ";
-                        }
-
-                        songToBeAdded = songToBeAdded.Trim();
-
-                        if (myAlbum.Contains(songToBeAdded) == false)
-                        {
-                            myAlbum.Enqueue(songToBeAdded);
+                            playlist.Enqueue(song);
                         }
                         else
                         {
-                            Console.WriteLine($"{songToBeAdded} is already contained!");
+                            Console.WriteLine($"{song} is already contained!");
+                        }
+                    }
+                    else if (command.StartsWith("Show"))
+                    {
+                        if (playlist.Any())
+                        {
+                            Console.WriteLine(string.Join(", ", playlist));
                         }
                     }
                 }
@@ -56,7 +44,6 @@ namespace _06.Songs_Queue
                     Console.WriteLine("No more songs!");
                     break;
                 }
-               
             }
         }
     }

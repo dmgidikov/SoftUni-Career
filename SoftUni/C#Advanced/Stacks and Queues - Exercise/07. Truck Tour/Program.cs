@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.Truck_Tour
+﻿namespace _07._Truck_Tour
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
 

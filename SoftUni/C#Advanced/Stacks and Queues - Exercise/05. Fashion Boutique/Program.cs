@@ -1,40 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Fashion_Boutique
+﻿namespace _05._Fashion_Boutique
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            var randomNum = int.Parse(Console.ReadLine());
+            var randomNums = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            var capacity = int.Parse(Console.ReadLine());
 
-            var myStack = new Stack<int>(nums);
+            var stack = new Stack<int>(randomNums);
+            var counter = 1;
+            var capacityCopy = capacity;
 
-            var result = 1;
-            var sum = 0;
-
-            for (int i = 0; i < nums.Length; i++)
+            while (stack.Any())
             {
-               var currentNum = myStack.Pop();
+                var firstNum = stack.Peek();
 
-               if (currentNum + sum <= randomNum)
-               {
-                   sum += currentNum;
-               }
-               else
-               {
-                   sum = currentNum;
-                   result++;
-               }
+                if (capacityCopy - firstNum >= 0)
+                {
+                    capacityCopy -= firstNum;
+                    stack.Pop();
+                }
+                else
+                {
+                    counter++;
+                    capacityCopy = capacity;
+                }
             }
 
-            Console.WriteLine(result);
+            Console.WriteLine(counter);
         }
     }
 }

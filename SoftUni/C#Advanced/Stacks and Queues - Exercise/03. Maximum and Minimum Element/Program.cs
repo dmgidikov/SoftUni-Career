@@ -1,53 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Maximum_and_Minimum_Element
+﻿namespace _03._Maximum_and_Minimum_Element
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var commands = int.Parse(Console.ReadLine());
+            var num = int.Parse(Console.ReadLine());
 
-            var randomStack = new Stack<int>();
+            var stack = new Stack<int>();
 
-            for (int i = 0; i < commands; i++)
+            for (int i = 0; i < num; i++)
             {
-                var command = Console.ReadLine().Split().Select(int.Parse).ToArray();
+                var input = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-                switch (command[0])
+                var command = input[0];
+
+                switch (command)
                 {
-                    case 1: randomStack.Push(command[1]); break;
+                    case 1: stack.Push(input[1]); break;
                     case 2:
-                        if (randomStack.Any())
+                        if (stack.Any())
                         {
-                            randomStack.Pop();
+                            stack.Pop();
                         }
                         break;
                     case 3:
-
-                        if (randomStack.Any())
+                        if (stack.Any())
                         {
-                            var maxElement = randomStack.Max();
-                            Console.WriteLine(maxElement);
+                            Console.WriteLine(stack.Max());
                         }
                         break;
                     case 4:
-
-                        if (randomStack.Any())
+                        if (stack.Any())
                         {
-                            var minElement = randomStack.Min();
-                            Console.WriteLine(minElement);
+                            Console.WriteLine(stack.Min());
                         }
                         break;
-                }
-
-                Console.WriteLine(string.Join(", ", randomStack));
+                    default: break;
+                };
             }
+
+            Console.WriteLine(string.Join(", ", stack));
         }
     }
 }

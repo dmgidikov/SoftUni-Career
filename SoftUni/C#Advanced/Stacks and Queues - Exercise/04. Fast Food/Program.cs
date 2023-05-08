@@ -1,48 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Fast_Food
+﻿namespace _04._Fast_Food
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var foodNum = int.Parse(Console.ReadLine());
+            var totalFood = int.Parse(Console.ReadLine());
+            var orders = Console.ReadLine().Split().Select(int.Parse).ToList();
 
-            var foodOrders = Console.ReadLine().Split().Select(int.Parse).ToList();
-            var foodOrdersAsQueue = new Queue<int>(foodOrders);
+            var queue = new Queue<int>(orders);
+            var biggestOrder = queue.Max();
 
-            var biggestClient = foodOrdersAsQueue.Max();
+            Console.WriteLine(biggestOrder);
 
-            while (foodOrdersAsQueue.Any())
+            while (queue.Any())
             {
-                var nextOrder = foodOrdersAsQueue.Peek();
+                var currentOrder = queue.Peek();
 
-                if (foodNum >= nextOrder)
+                if (totalFood - currentOrder >= 0)
                 {
-                    foodNum-= nextOrder;
-                    foodOrdersAsQueue.Dequeue();
+                    queue.Dequeue();
+                    totalFood -= currentOrder;
                 }
                 else
                 {
+                    Console.Write("Orders left: ");
+                    Console.WriteLine(string.Join(" ", queue));
                     break;
                 }
             }
 
-            if (foodOrdersAsQueue.Any())
+            if (queue.Any() == false)
             {
-                Console.WriteLine(biggestClient);
-                Console.Write("Orders left: ");
-                Console.WriteLine(string.Join(" ", foodOrdersAsQueue));
-                ;
-            }
-            else
-            {
-                Console.WriteLine(biggestClient);
                 Console.WriteLine("Orders complete");
             }
         }

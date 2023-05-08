@@ -6,75 +6,123 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08.Balanced_Parenthesis
+namespace _08._Balanced_Parenthesis
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var scopesAsString = Console.ReadLine();
-            var scopes = scopesAsString.ToCharArray();
+            var input = Console.ReadLine();
 
-            var leftSide = new Stack<char>();
-            var rightSide = new Queue<char>();
-            var isEqual = true;
+            var normalQueue = new Queue<char>(input);
+            var reversedQueue = new Queue<char>(input.Reverse());
 
-            if (scopes.Length % 2 == 1)
+            var compare = new char[]
+            {
+                '(',
+                '{',
+                '[',
+                ' ',
+                ')',
+                '}',
+                ']',
+            };
+
+            var compareWith = new char[]
+            {
+                ')',
+                '}',
+                ']',
+                ' ',
+                '(',
+                '{',
+                '[',
+            };
+
+            while (normalQueue.Any())
+            {
+                var firstChar = normalQueue.Peek();
+                var secondChar = reversedQueue.Peek();
+
+                if (firstChar == compare[0])
+                {
+                    if (secondChar == compareWith[0] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[1])
+                {
+                    if (secondChar == compareWith[1] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[2])
+                {
+                    if (secondChar == compareWith[2] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[3])
+                {
+                    if (secondChar == compareWith[3] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[4])
+                {
+                    if (secondChar == compareWith[4] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[5])
+                {
+                    if (secondChar == compareWith[5] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+                else if (firstChar == compare[6])
+                {
+                    if (secondChar == compareWith[6] == false)
+                    {
+                        break;
+                    }
+
+                    normalQueue.Dequeue();
+                    reversedQueue.Dequeue();
+                }
+            }
+
+            if (normalQueue.Any())
             {
                 Console.WriteLine("NO");
             }
             else
-            {
-                for (int i = 0; i < scopes.Length / 2; i++)
-                {
-                    leftSide.Push(scopes[i]);
-                }
-
-                for (int j = scopes.Length / 2; j < scopes.Length; j++)
-                {
-                    rightSide.Enqueue(scopes[j]);
-                }
-
-
-                while (leftSide.Any() && leftSide.Count == rightSide.Count)
-                {
-                    var left = leftSide.Pop();
-                    var right = rightSide.Dequeue();
-
-                    if (left == '(')
-                    {
-                        if (right != ')')
-                        {
-                            isEqual = false;
-                            break;
-                        }
-                    }
-                    else if (left == '[')
-                    {
-                        if (right != ']')
-                        {
-                            isEqual = false;
-                            break;
-                        }
-                    }
-                    else if (left == '{')
-                    {
-                        if (right != '}')
-                        {
-                            isEqual = false;
-                            break;
-                        }
-                    }
-                }
-            }
-
-            if (isEqual == true)
             {
                 Console.WriteLine("YES");
-            }
-            else
-            {
-                Console.WriteLine("NO");
             }
         }
     }
