@@ -15,3 +15,13 @@ Modules already passed:
 :white_check_mark: C# OOP!
 
 :white_check_mark: MS SQL!
+
+Оn the tail:
+
+:watch: ENTITY FRAMEWORK CORE!
+
+:watch: ASP.NET FUNDAMENTALS!
+
+:watch: ASP.NET ADVANCED!
+
+:watch: JS FRONT-END!
