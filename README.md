@@ -4,7 +4,7 @@ This is my career as C# Web Developer in Software University.
 
 Every course is set as a separate one in different folder.
 
-Modules already passed:
+**Modules already passed:**
 
 :white_check_mark: Programming Basics!
 
@@ -16,9 +16,13 @@ Modules already passed:
 
 :white_check_mark: MS SQL!
 
-Оn the tail:
 
-:watch: ENTITY FRAMEWORK CORE!
+**Curently working on:**
+
+:pencil: ENTITY FRAMEWORK CORE!
+
+
+**Оn the tail:**
 
 :watch: ASP.NET FUNDAMENTALS!
 
