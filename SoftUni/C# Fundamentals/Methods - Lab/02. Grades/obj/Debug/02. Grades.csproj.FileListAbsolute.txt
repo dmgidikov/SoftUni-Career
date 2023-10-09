@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\bin\Debug\_02.Grades.exe.config
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\bin\Debug\_02.Grades.exe
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\bin\Debug\_02.Grades.pdb
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\obj\Debug\02. Grades.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\obj\Debug\02. Grades.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\obj\Debug\02. Grades.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\obj\Debug\_02.Grades.exe
-C:\Users\Deyan\source\repos\Methods - Lab\02. Grades\obj\Debug\_02.Grades.pdb

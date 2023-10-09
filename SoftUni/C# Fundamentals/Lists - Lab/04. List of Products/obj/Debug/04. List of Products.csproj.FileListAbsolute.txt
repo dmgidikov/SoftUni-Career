@@ -1,8 +1,0 @@
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\bin\Debug\_04.List_of_Products.exe.config
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\bin\Debug\_04.List_of_Products.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\bin\Debug\_04.List_of_Products.pdb
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\obj\Debug\04. List of Products.csproj.AssemblyReference.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\obj\Debug\04. List of Products.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\obj\Debug\04. List of Products.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\obj\Debug\_04.List_of_Products.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\04. List of Products\obj\Debug\_04.List_of_Products.pdb

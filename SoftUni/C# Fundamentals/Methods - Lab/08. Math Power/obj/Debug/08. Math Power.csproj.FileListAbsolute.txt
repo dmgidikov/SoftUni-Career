@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\bin\Debug\_08.Math_Power.exe.config
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\bin\Debug\_08.Math_Power.exe
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\bin\Debug\_08.Math_Power.pdb
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\obj\Debug\08. Math Power.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\obj\Debug\08. Math Power.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\obj\Debug\08. Math Power.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\obj\Debug\_08.Math_Power.exe
-C:\Users\Deyan\source\repos\Methods - Lab\08. Math Power\obj\Debug\_08.Math_Power.pdb

@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe.config
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\_08.Factorial_Division.pdb
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\_08.Factorial_Division.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\_08.Factorial_Division.pdb

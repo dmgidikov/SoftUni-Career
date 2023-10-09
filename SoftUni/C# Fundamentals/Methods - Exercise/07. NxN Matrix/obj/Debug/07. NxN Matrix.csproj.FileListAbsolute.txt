@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\_07.NxN_Matrix.exe.config
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\_07.NxN_Matrix.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\bin\Debug\_07.NxN_Matrix.pdb
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\07. NxN Matrix.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\07. NxN Matrix.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\07. NxN Matrix.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\_07.NxN_Matrix.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\07. NxN Matrix\obj\Debug\_07.NxN_Matrix.pdb

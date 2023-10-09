@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\_01.Smallest_of_Three_Numbers.exe.config
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\_01.Smallest_of_Three_Numbers.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\_01.Smallest_of_Three_Numbers.pdb
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\01. Smallest of Three Numbers.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\_01.Smallest_of_Three_Numbers.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\_01.Smallest_of_Three_Numbers.pdb

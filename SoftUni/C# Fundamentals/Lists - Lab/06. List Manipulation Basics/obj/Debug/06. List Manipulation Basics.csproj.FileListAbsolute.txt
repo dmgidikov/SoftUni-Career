@@ -1,8 +1,0 @@
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\bin\Debug\_06.List_Manipulation_Basics.exe.config
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\bin\Debug\_06.List_Manipulation_Basics.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\bin\Debug\_06.List_Manipulation_Basics.pdb
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\obj\Debug\06. List Manipulation Basics.csproj.AssemblyReference.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\obj\Debug\06. List Manipulation Basics.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\obj\Debug\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\obj\Debug\_06.List_Manipulation_Basics.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\06. List Manipulation Basics\obj\Debug\_06.List_Manipulation_Basics.pdb

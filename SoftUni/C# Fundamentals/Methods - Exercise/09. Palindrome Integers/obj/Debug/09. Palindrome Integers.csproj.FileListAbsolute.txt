@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.exe.config
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\_09.Palindrome_Integers.pdb
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\09. Palindrome Integers.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\09. Palindrome Integers.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\09. Palindrome Integers.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\_09.Palindrome_Integers.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\_09.Palindrome_Integers.pdb

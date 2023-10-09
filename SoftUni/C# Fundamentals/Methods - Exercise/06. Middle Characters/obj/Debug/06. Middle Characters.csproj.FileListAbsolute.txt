@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.exe.config
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\_06.Middle_Characters.pdb
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\06. Middle Characters.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\06. Middle Characters.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\06. Middle Characters.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\_06.Middle_Characters.exe
-C:\Users\Deyan\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\_06.Middle_Characters.pdb

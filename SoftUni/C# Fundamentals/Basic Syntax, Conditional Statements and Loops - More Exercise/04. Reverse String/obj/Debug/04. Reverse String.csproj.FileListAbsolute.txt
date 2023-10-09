@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\_04.Reverse_String.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\04. Reverse String.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\_04.Reverse_String.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\_04.Reverse_String.pdb

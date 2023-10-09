@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\_03.Longer_Line.exe.config
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\_03.Longer_Line.exe
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\bin\Debug\_03.Longer_Line.pdb
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\03. Longer Line.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\03. Longer Line.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\03. Longer Line.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\_03.Longer_Line.exe
-C:\Users\Deyan\source\repos\Methods - More Exercise\03. Longer Line\obj\Debug\_03.Longer_Line.pdb

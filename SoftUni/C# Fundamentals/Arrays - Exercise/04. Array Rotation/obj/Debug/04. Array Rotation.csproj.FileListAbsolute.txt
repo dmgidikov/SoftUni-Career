@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.exe.config
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\bin\Debug\_04.Array_Rotation.pdb
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\04. Array Rotation.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\04. Array Rotation.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\04. Array Rotation.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\_04.Array_Rotation.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\04. Array Rotation\obj\Debug\_04.Array_Rotation.pdb

@@ -1,8 +1,0 @@
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\bin\Debug\_07.List_Manipulation_Advanced.exe.config
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\bin\Debug\_07.List_Manipulation_Advanced.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\bin\Debug\_07.List_Manipulation_Advanced.pdb
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\obj\Debug\07. List Manipulation Advanced.csproj.AssemblyReference.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\obj\Debug\07. List Manipulation Advanced.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\obj\Debug\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\obj\Debug\_07.List_Manipulation_Advanced.exe
-C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\07. List Manipulation Advanced\obj\Debug\_07.List_Manipulation_Advanced.pdb

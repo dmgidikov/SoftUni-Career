@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.exe.config
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.exe
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\_04.Reverse_Array_of_Strings.pdb
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\_04.Reverse_Array_of_Strings.exe
-C:\Users\Deyan\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\_04.Reverse_Array_of_Strings.pdb

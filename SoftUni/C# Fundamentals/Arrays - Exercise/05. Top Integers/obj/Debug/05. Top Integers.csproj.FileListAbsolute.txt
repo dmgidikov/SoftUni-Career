@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.exe.config
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\bin\Debug\_05.Top_Integers.pdb
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\05. Top Integers.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\05. Top Integers.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\05. Top Integers.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\_05.Top_Integers.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\05. Top Integers\obj\Debug\_05.Top_Integers.pdb

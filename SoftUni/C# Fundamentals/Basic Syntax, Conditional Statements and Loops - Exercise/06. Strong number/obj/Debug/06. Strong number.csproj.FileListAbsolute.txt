@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\_06.Strong_number.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\_06.Strong_number.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\_06.Strong_number.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\06. Strong number.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\06. Strong number.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\06. Strong number.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\_06.Strong_number.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\_06.Strong_number.pdb

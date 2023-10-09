@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe.config
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\bin\Debug\_06.Equal_Sum.pdb
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\obj\Debug\06. Equal Sum.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\06. Equal Sum\obj\Debug\_06.Equal_Sum.pdb

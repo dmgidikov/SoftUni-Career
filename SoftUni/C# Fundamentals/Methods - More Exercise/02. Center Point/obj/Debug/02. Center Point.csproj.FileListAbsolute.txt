@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\_02.Center_Point.exe.config
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\_02.Center_Point.exe
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\bin\Debug\_02.Center_Point.pdb
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\02. Center Point.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\02. Center Point.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\02. Center Point.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\_02.Center_Point.exe
-C:\Users\Deyan\source\repos\Methods - More Exercise\02. Center Point\obj\Debug\_02.Center_Point.pdb

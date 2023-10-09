@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\_06.Calculate_Rectangle_Area.exe.config
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\_06.Calculate_Rectangle_Area.exe
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\_06.Calculate_Rectangle_Area.pdb
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\06. Calculate Rectangle Area.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\06. Calculate Rectangle Area.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\_06.Calculate_Rectangle_Area.exe
-C:\Users\Deyan\source\repos\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\_06.Calculate_Rectangle_Area.pdb

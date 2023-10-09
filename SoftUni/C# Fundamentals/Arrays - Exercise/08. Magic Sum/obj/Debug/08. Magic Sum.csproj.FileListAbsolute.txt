@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.exe.config
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\bin\Debug\_08.Magic_Sum.pdb
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\08. Magic Sum.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\08. Magic Sum.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\08. Magic Sum.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\_08.Magic_Sum.exe
-C:\Users\Deyan\source\repos\Arrays - Exercise\08. Magic Sum\obj\Debug\_08.Magic_Sum.pdb
