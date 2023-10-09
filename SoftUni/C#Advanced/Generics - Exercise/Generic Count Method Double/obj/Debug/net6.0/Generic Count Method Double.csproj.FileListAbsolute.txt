@@ -1,0 +1,15 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\bin\Debug\net6.0\Generic Count Method Double.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\bin\Debug\net6.0\Generic Count Method Double.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\bin\Debug\net6.0\Generic Count Method Double.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\bin\Debug\net6.0\Generic Count Method Double.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\bin\Debug\net6.0\Generic Count Method Double.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\refint\Generic Count Method Double.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\Generic Count Method Double.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Generics - Exercise\Generic Count Method Double\obj\Debug\net6.0\ref\Generic Count Method Double.dll
