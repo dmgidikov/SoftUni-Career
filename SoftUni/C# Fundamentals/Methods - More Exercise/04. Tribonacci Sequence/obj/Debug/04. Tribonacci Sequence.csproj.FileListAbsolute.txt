@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\_04.Tribonacci_Sequence.exe.config
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\_04.Tribonacci_Sequence.exe
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\_04.Tribonacci_Sequence.pdb
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\04. Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\04. Tribonacci Sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\_04.Tribonacci_Sequence.exe
+C:\Users\Deyan\source\repos\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\_04.Tribonacci_Sequence.pdb

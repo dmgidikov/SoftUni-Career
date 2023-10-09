@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.exe.config
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\bin\Debug\_02.Common_Elements.pdb
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\_02.Common_Elements.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\02. Common Elements\obj\Debug\_02.Common_Elements.pdb

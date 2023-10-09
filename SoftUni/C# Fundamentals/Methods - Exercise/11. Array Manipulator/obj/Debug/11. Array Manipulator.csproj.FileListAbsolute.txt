@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\_11.Array_Manipulator.exe.config
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\_11.Array_Manipulator.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\_11.Array_Manipulator.pdb
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\11. Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\11. Array Manipulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\_11.Array_Manipulator.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\_11.Array_Manipulator.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\bin\Debug\_05.Multiplication_Sign.exe.config
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\bin\Debug\_05.Multiplication_Sign.exe
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\bin\Debug\_05.Multiplication_Sign.pdb
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\obj\Debug\05. Multiplication Sign.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\obj\Debug\05. Multiplication Sign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\obj\Debug\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\obj\Debug\_05.Multiplication_Sign.exe
+C:\Users\Deyan\source\repos\Methods - More Exercise\05. Multiplication Sign\obj\Debug\_05.Multiplication_Sign.pdb

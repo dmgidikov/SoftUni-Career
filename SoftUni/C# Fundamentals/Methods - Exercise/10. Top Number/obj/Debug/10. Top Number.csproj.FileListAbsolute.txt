@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\bin\Debug\_10.Top_Number.exe.config
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\bin\Debug\_10.Top_Number.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\bin\Debug\_10.Top_Number.pdb
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\obj\Debug\10. Top Number.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\obj\Debug\10. Top Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\obj\Debug\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\obj\Debug\_10.Top_Number.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\10. Top Number\obj\Debug\_10.Top_Number.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\_09.Padawan_Equipment.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\_09.Padawan_Equipment.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\_09.Padawan_Equipment.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\09. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\09. Padawan Equipment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\_09.Padawan_Equipment.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\_09.Padawan_Equipment.pdb

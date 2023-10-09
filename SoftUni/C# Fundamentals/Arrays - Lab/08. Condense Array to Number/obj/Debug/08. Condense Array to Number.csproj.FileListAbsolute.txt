@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Deyan\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

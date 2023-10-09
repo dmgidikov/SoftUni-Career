@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\_05.Login.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\_05.Login.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\_05.Login.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\05. Login.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\05. Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\_05.Login.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\_05.Login.pdb

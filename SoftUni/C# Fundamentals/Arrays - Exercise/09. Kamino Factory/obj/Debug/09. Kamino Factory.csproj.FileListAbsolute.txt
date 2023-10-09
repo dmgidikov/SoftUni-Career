@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\_09.Kamino_Factory.exe.config
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\_09.Kamino_Factory.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\_09.Kamino_Factory.pdb
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\09. Kamino Factory.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\09. Kamino Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\_09.Kamino_Factory.exe
+C:\Users\Deyan\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\_09.Kamino_Factory.pdb

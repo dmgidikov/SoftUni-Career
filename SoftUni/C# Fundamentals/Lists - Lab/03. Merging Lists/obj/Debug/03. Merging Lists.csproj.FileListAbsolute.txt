@@ -1,0 +1,8 @@
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\bin\Debug\_03.Merging_Lists.exe.config
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\bin\Debug\_03.Merging_Lists.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\bin\Debug\_03.Merging_Lists.pdb
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\obj\Debug\03. Merging Lists.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\obj\Debug\03. Merging Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\obj\Debug\03. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\obj\Debug\_03.Merging_Lists.exe
+C:\Users\Deyan\Documents\Coding\C#\Lists - Lab\03. Merging Lists\obj\Debug\_03.Merging_Lists.pdb

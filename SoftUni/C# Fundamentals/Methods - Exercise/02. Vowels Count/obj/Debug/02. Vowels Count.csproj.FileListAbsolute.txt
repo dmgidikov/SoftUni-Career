@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.exe.config
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\bin\Debug\_02.Vowels_Count.pdb
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\02. Vowels Count.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\02. Vowels Count.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\_02.Vowels_Count.exe
+C:\Users\Deyan\source\repos\Methods - Exercise\02. Vowels Count\obj\Debug\_02.Vowels_Count.pdb

@@ -1,0 +1,8 @@
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\_11.Orders.exe.config
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\_11.Orders.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\bin\Debug\_11.Orders.pdb
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\11. Orders.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\11. Orders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\11. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\_11.Orders.exe
+C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\11. Orders\obj\Debug\_11.Orders.pdb
