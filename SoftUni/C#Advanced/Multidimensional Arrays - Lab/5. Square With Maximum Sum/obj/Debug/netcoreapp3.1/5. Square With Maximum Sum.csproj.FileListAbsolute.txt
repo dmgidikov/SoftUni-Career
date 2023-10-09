@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.genruntimeconfig.cache

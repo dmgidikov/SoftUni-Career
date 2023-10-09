@@ -1,0 +1,15 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net6.0\03. Primary Diagonal.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\refint\03. Primary Diagonal.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\03. Primary Diagonal.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net6.0\ref\03. Primary Diagonal.dll

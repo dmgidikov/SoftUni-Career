@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Codding\VisualStudio\C#Advanced\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache
