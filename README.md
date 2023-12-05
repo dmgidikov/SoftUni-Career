@@ -12,7 +12,7 @@ Every course is set as a separate one in different folder.
 
 :white_check_mark: C# Advanced!
 
-⏳C# OOP!
+:white_check_mark: C# OOP!
 
 :white_check_mark: MS SQL!
 
@@ -24,8 +24,8 @@ Every course is set as a separate one in different folder.
 
 **Оn the tail:**
 
-:watch: ASP.NET FUNDAMENTALS!
+⏳ ASP.NET FUNDAMENTALS!
 
-:watch: ASP.NET ADVANCED!
+⏳ ASP.NET ADVANCED!
 
-:watch: JS FRONT-END!
+⏳ JS FRONT-END!
