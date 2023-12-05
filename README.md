@@ -12,7 +12,7 @@ Every course is set as a separate one in different folder.
 
 :white_check_mark: C# Advanced!
 
-:white_check_mark: C# OOP!
+⏳C# OOP!
 
 :white_check_mark: MS SQL!
 
