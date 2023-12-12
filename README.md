@@ -24,8 +24,8 @@ Every course is set as a separate one in different folder.
 
 **Оn the tail:**
 
-:watch: ASP.NET FUNDAMENTALS!
+⏳ ASP.NET FUNDAMENTALS!
 
-:watch: ASP.NET ADVANCED!
+⏳ ASP.NET ADVANCED!
 
-:watch: JS FRONT-END!
+⏳ JS FRONT-END!
