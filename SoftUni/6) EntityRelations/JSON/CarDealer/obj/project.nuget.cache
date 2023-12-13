@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xMV/JtGaokDWpgwQAAsMAwtqIQDomAv+HP+FNiRg11EprXN5SRTQ6p9dYzmQSsQL4jEQZ2HWYnxjMScPXX9Mew==",
+  "dgSpecHash": "Xr4Sk5QizYpnSquopNh+PPYb2nRGKOaS+jYw/WU6mTeObptiFdR7LiChZcOyr1ZEm9I0Ao39YZqNvSYKLuYGYQ==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\CarDealer.csproj",
+  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

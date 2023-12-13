@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\ProductShop.csproj": {}
+    "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\ProductShop.csproj": {
+    "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\ProductShop.csproj",
+        "projectUniqueName": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj",
         "projectName": "ProductShop",
-        "projectPath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\ProductShop.csproj",
+        "projectPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\obj\\",
+        "outputPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

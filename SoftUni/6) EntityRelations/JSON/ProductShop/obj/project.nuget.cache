@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eOOrkYMbFs9GzE/SXRW6z3q8qhd0h/h/iAlCoPV4g7i+ovMVW+QoYp4au1mV3RHdVPFt0gDmoxJN0No6LFP2VA==",
+  "dgSpecHash": "LKJI9D8aNLvXTLCqoYUgGzqienu3alZn04KUNQ7UHQxINNUfp8Gnr3Y6Ef8wGTT7rjOA5znbhOplttthNGs5Bg==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

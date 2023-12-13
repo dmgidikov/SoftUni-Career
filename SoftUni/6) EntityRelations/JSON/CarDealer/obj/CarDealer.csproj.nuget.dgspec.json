@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\CarDealer.csproj": {}
+    "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\CarDealer.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\CarDealer.csproj": {
+    "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\CarDealer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\CarDealer.csproj",
+        "projectUniqueName": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\CarDealer.csproj",
         "projectName": "CarDealer",
-        "projectPath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\CarDealer.csproj",
+        "projectPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\CarDealer.csproj",
         "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Entity Framework Core\\JSON\\New folder\\CarDealer\\obj\\",
+        "outputPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\CarDealer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

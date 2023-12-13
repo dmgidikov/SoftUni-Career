@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using AutoMapper;
+using AutoMapper.QueryableExtensions;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 using ProductShop.Data;
+using ProductShop.DTO;
 using ProductShop.Models;
 
 namespace ProductShop
@@ -12,11 +16,14 @@ namespace ProductShop
     {
         public static void Main(string[] args)
         {
+            var config = new MapperConfiguration(cfg =>
+                cfg.AddProfile<ProductShopProfile>());
+
             using (var db = new ProductShopContext())
             {
                 var inputJson = File.ReadAllText("./../../../Datasets/categories-products.json");
 
-                var result = GetUsersWithProducts(db);
+                var result = GetUsersWithProductsWithAutoMapping(db, config);
 
                 Console.WriteLine(result);
             }
@@ -174,6 +181,38 @@ namespace ProductShop
             });
 
             return result;
+        }
+
+        // Query 8. Export Users and Products With AutoMapping
+        public static string GetUsersWithProductsWithAutoMapping(ProductShopContext context, IConfigurationProvider cfg)
+        {
+            var users = context
+                .Users
+                .Where(u => u.ProductsSold.Any(ps => ps.Buyer !=
+                null))
+                .ProjectTo<UserDetailsDTO>(cfg)
+                .OrderByDescending(u => u.SoldProducts.Count)
+                .ToArray();
+
+            var usercOutput = new
+            {
+                usersCount = users.Length,
+                Users = users
+            };
+
+            var defaultResolver = new DefaultContractResolver()
+            {
+                NamingStrategy = new CamelCaseNamingStrategy()
+            };
+
+            var json = JsonConvert.SerializeObject(usercOutput, new JsonSerializerSettings()
+            {
+                ContractResolver = defaultResolver,
+                Formatting = Formatting.Indented,
+                NullValueHandling = NullValueHandling.Ignore,
+            });
+
+            return json;
         }
     }
 }
