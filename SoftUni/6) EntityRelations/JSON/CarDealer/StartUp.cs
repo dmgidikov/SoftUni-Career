@@ -39,7 +39,9 @@ namespace CarDealer
         // Query 10. Import Parts
         public static string ImportParts(CarDealerContext context, string inputJson)
         {
-            var parts = JsonConvert.DeserializeObject<List<Part>>(inputJson);
+            var parts = JsonConvert.DeserializeObject<List<Part>>(inputJson)
+                .Where(x => context.Suppliers.Any(s => s.Id == x.SupplierId))
+                .ToList();
 
             context.AddRange(parts);
             context.SaveChanges();

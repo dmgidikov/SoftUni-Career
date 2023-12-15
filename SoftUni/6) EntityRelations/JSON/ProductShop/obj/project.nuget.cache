@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKJI9D8aNLvXTLCqoYUgGzqienu3alZn04KUNQ7UHQxINNUfp8Gnr3Y6Ef8wGTT7rjOA5znbhOplttthNGs5Bg==",
+  "dgSpecHash": "B8XLn3785BJCppzRmVE8kq5llr/O+edQvfzTKxj8dcRrl73/KGQpBZhv+/dSsLdYlbF5DtkFcRgI4uLSL5ItDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\New folder\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\JSON\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
