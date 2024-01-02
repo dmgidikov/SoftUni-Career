@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>Customer Details</legend>      
+      <form action="#">
+        First Name
+        <input type="text" autofocus required placeholder="George" />
+      </form>
+      <form action="#">
+        LastName
+        <input type="text" required placeholder="Davis" />
+      </form>
+      <form action="#">
+        Male
+        <input type="radio" />
+        Female
+        <input type="radio" />
+        Other
+        <input type="radio" />
+      </form>
+      <form action="#">
+        Preferred contact method: Email
+        <input type="radio" />
+        Phone
+        <input type="radio" />
+      </form>
+      <form action="#">
+        Email
+        <input type="email" required placeholder="your@email.com" />
+      </form>
+      <form action="#">
+        Phone
+        <input type="number" required placeholder="+395811111111" />
+      </form>
+      <form action="#">
+        Town
+        <select name="town" id="town">
+          <option value="varna">Varna</option>
+          <option value="plovdiv">Plovdiv</option>
+          <option value="burgas">Burgas</option>
+          <option value="sofia">Sofia</option>
+          <option value="pleven">Pleven</option>
+        </select>
+      </form>
+      <form action="#">
+        Age
+        <input type="number" required min="18" max="70"/>
+      </form>
+      <form action="#">        
+        Programming language
+        <input type="text">
+         <datalist>
+          <option>Java</option>
+          <option value="PHP">PHP</option>
+          <option value="C#">C#</option>
+          <option value="JavaScript">JavaScript</option>
+          <option value="Python">Python</option>
+          <option value="Ruby">Ruby</option>
+          <option value="Other">Other</option>
+         </datalist>
+      </form>
+      <form action="#">
+        <textarea name="textarea" id="textarea" cols="20" rows="5" placeholder="More information..."></textarea>
+      </form>
+      <form action="#">
+        <input type="checkbox" required> I agree the Terms and Conditions
+      </form>
+      <form action="#">
+        <input type="submit" value="Send">
+      </form>
+    </fieldset>
+  </body>
+</html>
