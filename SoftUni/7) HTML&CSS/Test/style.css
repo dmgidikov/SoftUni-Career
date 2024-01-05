@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Dosis;
+  src: url("fonts/Dosis-VariableFont_wght.ttf") format("truetype");
+}
+
+html {
+  font-size: 18px;
+  background: rgb(93, 165, 212);
+}
+
+body {
+  font-family: Dosis;
+  font-size: 1rem;
+}
+
+.what-is-programming-text p {
+  font-weight: bold;
+  background: navy;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.text {
+  padding: 20px;
+  background-color: red;
+}
+
+.text random range {
+  cursor: pointer;
+}
+
+.London {
+  background: rgba(17, 230, 35, 0.993);
+}
+.Oslo {
+  background-color: rgb(240, 94, 179);
+}
+
+.Rome {
+  background: yellow;
+}
