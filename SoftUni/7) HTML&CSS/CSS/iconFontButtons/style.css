@@ -1,0 +1,17 @@
+.Click-me {
+  background-color: green;
+  border: none;
+  margin: 10px;
+}
+
+.E-mail-me {
+  background-color: orange;
+  border: none;
+  margin: 10px;
+}
+
+.Click-me a,
+.E-mail-me a {
+  color: white;
+  text-decoration: none;
+}
