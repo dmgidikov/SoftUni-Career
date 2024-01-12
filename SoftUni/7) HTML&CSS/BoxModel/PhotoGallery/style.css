@@ -1,0 +1,27 @@
+body {
+  border: 2px solid black;
+}
+
+li {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+li > img {
+  border: 0.4rem solid black;
+}
+
+.wide {
+  height: 100px;
+  width: 200px;
+  margin: 5px;
+  margin-bottom: 100px;
+  padding: 3px;
+}
+
+.high {
+  height: 300px;
+  width: 200px;
+  margin: 5px;
+  padding: 3px;
+}
