@@ -6,7 +6,7 @@ Every course is set as a separate one in different folder.
 
 **Modules already passed:**
 
-:white_check_mark: Programming Basics!
+:white_check_mark: C# Programming Basics!
 
 :white_check_mark: C# Fundamentals!
 
@@ -16,15 +16,18 @@ Every course is set as a separate one in different folder.
 
 :white_check_mark: MS SQL!
 
+:white_check_mark: ENTITY FRAMEWORK CORE!
+
+:white_check_mark: HTML & CSS!
+
+
 
 **Curently working on:**
 
-:pencil: ENTITY FRAMEWORK CORE!
+:pencil: ASP.NET FUNDAMENTALS!
 
 
 **Оn the tail:**
-
-⏳ ASP.NET FUNDAMENTALS!
 
 ⏳ ASP.NET ADVANCED!
 
