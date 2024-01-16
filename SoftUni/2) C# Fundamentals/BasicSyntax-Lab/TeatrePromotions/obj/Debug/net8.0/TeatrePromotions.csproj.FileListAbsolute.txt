@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\bin\Debug\net8.0\TeatrePromotions.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\bin\Debug\net8.0\TeatrePromotions.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\bin\Debug\net8.0\TeatrePromotions.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\bin\Debug\net8.0\TeatrePromotions.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\bin\Debug\net8.0\TeatrePromotions.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\refint\TeatrePromotions.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\TeatrePromotions.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\TeatrePromotions\obj\Debug\net8.0\ref\TeatrePromotions.dll

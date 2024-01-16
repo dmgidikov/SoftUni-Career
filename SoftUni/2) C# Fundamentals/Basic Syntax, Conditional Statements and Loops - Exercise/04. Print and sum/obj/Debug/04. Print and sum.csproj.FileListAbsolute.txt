@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\_04.Print_and_sum.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\_04.Print_and_sum.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\_04.Print_and_sum.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\04. Print and sum.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\04. Print and sum.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\04. Print and sum.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\_04.Print_and_sum.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\_04.Print_and_sum.pdb

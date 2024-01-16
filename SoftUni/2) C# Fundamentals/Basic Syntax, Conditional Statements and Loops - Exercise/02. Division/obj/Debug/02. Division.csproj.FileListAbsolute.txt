@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\_02.Division.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\_02.Division.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\_02.Division.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\02. Division.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\02. Division.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\02. Division.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\_02.Division.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\_02.Division.pdb

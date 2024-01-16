@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\bin\Debug\net8.0\VendingMachine.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\bin\Debug\net8.0\VendingMachine.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\bin\Debug\net8.0\VendingMachine.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\bin\Debug\net8.0\VendingMachine.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\bin\Debug\net8.0\VendingMachine.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\refint\VendingMachine.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\VendingMachine.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\VendingMachine\obj\Debug\net8.0\ref\VendingMachine.dll

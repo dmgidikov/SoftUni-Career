@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\bin\Debug\net8.0\Login.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\bin\Debug\net8.0\Login.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\bin\Debug\net8.0\Login.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\bin\Debug\net8.0\Login.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\bin\Debug\net8.0\Login.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\refint\Login.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\Login.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\Login\obj\Debug\net8.0\ref\Login.dll

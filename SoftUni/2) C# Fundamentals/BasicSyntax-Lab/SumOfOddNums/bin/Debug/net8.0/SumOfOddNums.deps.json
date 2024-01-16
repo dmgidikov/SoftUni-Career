@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SumOfOddNums/1.0.0": {
+        "runtime": {
+          "SumOfOddNums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfOddNums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

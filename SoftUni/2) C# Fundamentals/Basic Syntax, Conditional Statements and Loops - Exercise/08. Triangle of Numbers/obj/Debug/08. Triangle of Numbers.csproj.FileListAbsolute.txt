@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\_08.Triangle_of_Numbers.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\_08.Triangle_of_Numbers.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\_08.Triangle_of_Numbers.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\08. Triangle of Numbers.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\08. Triangle of Numbers.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\_08.Triangle_of_Numbers.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\_08.Triangle_of_Numbers.pdb

@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\_03.Gaming_Store.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\03. Gaming Store.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\_03.Gaming_Store.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\_03.Gaming_Store.pdb

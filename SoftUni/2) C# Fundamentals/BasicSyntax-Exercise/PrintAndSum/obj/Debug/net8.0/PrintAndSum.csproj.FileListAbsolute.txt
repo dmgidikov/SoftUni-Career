@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\bin\Debug\net8.0\PrintAndSum.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\bin\Debug\net8.0\PrintAndSum.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\bin\Debug\net8.0\PrintAndSum.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\bin\Debug\net8.0\PrintAndSum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\bin\Debug\net8.0\PrintAndSum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\refint\PrintAndSum.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\PrintAndSum.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Exercise\PrintAndSum\obj\Debug\net8.0\ref\PrintAndSum.dll

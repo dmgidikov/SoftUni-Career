@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\bin\Debug\net8.0\GamingStore.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\bin\Debug\net8.0\GamingStore.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\bin\Debug\net8.0\GamingStore.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\bin\Debug\net8.0\GamingStore.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\bin\Debug\net8.0\GamingStore.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\refint\GamingStore.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\GamingStore.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\GamingStore\obj\Debug\net8.0\ref\GamingStore.dll

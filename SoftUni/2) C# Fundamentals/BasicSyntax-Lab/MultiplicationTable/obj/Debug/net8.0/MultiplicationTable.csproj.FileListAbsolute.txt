@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll

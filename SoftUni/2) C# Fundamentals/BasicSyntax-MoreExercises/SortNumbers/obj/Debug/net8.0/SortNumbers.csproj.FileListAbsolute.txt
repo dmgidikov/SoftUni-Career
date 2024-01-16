@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\bin\Debug\net8.0\SortNumbers.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\bin\Debug\net8.0\SortNumbers.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\bin\Debug\net8.0\SortNumbers.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\bin\Debug\net8.0\SortNumbers.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\bin\Debug\net8.0\SortNumbers.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\refint\SortNumbers.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\SortNumbers.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\SortNumbers\obj\Debug\net8.0\ref\SortNumbers.dll

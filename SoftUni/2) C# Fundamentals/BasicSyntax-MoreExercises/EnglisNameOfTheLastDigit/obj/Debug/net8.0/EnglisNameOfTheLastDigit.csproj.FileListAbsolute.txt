@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\bin\Debug\net8.0\EnglisNameOfTheLastDigit.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\bin\Debug\net8.0\EnglisNameOfTheLastDigit.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\bin\Debug\net8.0\EnglisNameOfTheLastDigit.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\bin\Debug\net8.0\EnglisNameOfTheLastDigit.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\bin\Debug\net8.0\EnglisNameOfTheLastDigit.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\refint\EnglisNameOfTheLastDigit.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\EnglisNameOfTheLastDigit.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-MoreExercises\EnglisNameOfTheLastDigit\obj\Debug\net8.0\ref\EnglisNameOfTheLastDigit.dll

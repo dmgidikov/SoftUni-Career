@@ -1,8 +1,0 @@
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\_12.Even_Number.exe.config
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\_12.Even_Number.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\_12.Even_Number.pdb
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\12. Even Number.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\12. Even Number.csproj.SuggestedBindingRedirects.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\12. Even Number.csproj.CoreCompileInputs.cache
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\_12.Even_Number.exe
-C:\Users\Deyan\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\_12.Even_Number.pdb

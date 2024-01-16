@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\bin\Debug\net8.0\SumOfOddNums.exe
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\bin\Debug\net8.0\SumOfOddNums.deps.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\bin\Debug\net8.0\SumOfOddNums.runtimeconfig.json
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\bin\Debug\net8.0\SumOfOddNums.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\bin\Debug\net8.0\SumOfOddNums.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\refint\SumOfOddNums.dll
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.pdb
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\SumOfOddNums.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Visual Studio 2022\Test\C# Programming Fundamentals\BasicSyntax-Lab\SumOfOddNums\obj\Debug\net8.0\ref\SumOfOddNums.dll
