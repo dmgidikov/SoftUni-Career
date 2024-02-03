@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWPOdhshVLj2PIJrEhfl+Alujk2Wm0xxq7oFq/P21zhmB9AbglNxGA6Xg8rMAEe1oudg7/hKd481AMSmLH5Zbw==",
+  "dgSpecHash": "YyMdDRO0JthnsPCJlL5tJ09iyhgNNAQ3MYKlWWdZVnwCRTiU7qRSqjG76hfcgLxsY70lh66MGoB/G8bfoLocbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deyan\\Downloads\\softuni\\BookShop\\BookShop.csproj",
+  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\Advanced-Querying\\BookShop\\BookShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

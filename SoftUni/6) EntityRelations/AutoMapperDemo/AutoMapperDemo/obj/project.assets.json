@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deyan\\source\\repos\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
       "projectName": "AutoMapperDemo",
-      "projectPath": "C:\\Users\\Deyan\\source\\repos\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
+      "projectPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
       "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deyan\\source\\repos\\AutoMapperDemo\\AutoMapperDemo\\obj\\",
+      "outputPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\AutoMapperDemo\\AutoMapperDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,7 +186,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

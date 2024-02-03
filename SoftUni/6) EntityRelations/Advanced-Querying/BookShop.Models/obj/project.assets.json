@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deyan\\Downloads\\softuni\\BookShop.Models\\BookShop.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\Advanced-Querying\\BookShop.Models\\BookShop.Models.csproj",
       "projectName": "BookShop.Models",
-      "projectPath": "C:\\Users\\Deyan\\Downloads\\softuni\\BookShop.Models\\BookShop.Models.csproj",
+      "projectPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\Advanced-Querying\\BookShop.Models\\BookShop.Models.csproj",
       "packagesPath": "C:\\Users\\Deyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deyan\\Downloads\\softuni\\BookShop.Models\\obj\\",
+      "outputPath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\Advanced-Querying\\BookShop.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

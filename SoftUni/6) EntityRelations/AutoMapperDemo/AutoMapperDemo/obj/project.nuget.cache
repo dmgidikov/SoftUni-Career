@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/rZXOC4H4n04wCyMMkzjcIvDX71MGOhBKU9nwwVuJbtapHOu1vjpYzWX44PHZ4ozkabMIfLBfdJpoGzkRRqljw==",
+  "dgSpecHash": "4L1BCGoasX+UmX5usGChPVLJcowHk7Pp9cf62fq29jRBDqGQblW0mP7r2aAeyYgXhZvKgVUAhKoNSK2dlT7H7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deyan\\source\\repos\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
+  "projectFilePath": "C:\\Users\\Deyan\\Documents\\Coding\\GitHub\\SoftUni-Career\\SoftUni\\6) EntityRelations\\AutoMapperDemo\\AutoMapperDemo\\AutoMapperDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deyan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Deyan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
