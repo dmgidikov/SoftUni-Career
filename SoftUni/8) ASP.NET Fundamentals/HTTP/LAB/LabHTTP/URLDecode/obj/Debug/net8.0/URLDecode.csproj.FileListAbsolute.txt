@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\bin\Debug\net8.0\URLDecode.exe
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\bin\Debug\net8.0\URLDecode.deps.json
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\bin\Debug\net8.0\URLDecode.runtimeconfig.json
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\bin\Debug\net8.0\URLDecode.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\bin\Debug\net8.0\URLDecode.pdb
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\refint\URLDecode.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.pdb
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\URLDecode.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\HTTP\LAB\LabHTTP\URLDecode\obj\Debug\net8.0\ref\URLDecode.dll
