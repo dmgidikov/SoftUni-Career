@@ -6,7 +6,7 @@ Every course is set as a separate one in different folder.
 
 **Modules already passed:**
 
-:white_check_mark: C# Programming Basics!
+:white_check_mark: C# Basics!
 
 :white_check_mark: C# Fundamentals!
 
