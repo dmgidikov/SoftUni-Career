@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\bin\Debug\net6.0\03.HierarchialInheritance.exe
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\bin\Debug\net6.0\03.HierarchialInheritance.deps.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\bin\Debug\net6.0\03.HierarchialInheritance.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\bin\Debug\net6.0\03.HierarchialInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\bin\Debug\net6.0\03.HierarchialInheritance.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\refint\03.HierarchialInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\03.HierarchialInheritance.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\03.HierarchialInheritance\obj\Debug\net6.0\ref\03.HierarchialInheritance.dll

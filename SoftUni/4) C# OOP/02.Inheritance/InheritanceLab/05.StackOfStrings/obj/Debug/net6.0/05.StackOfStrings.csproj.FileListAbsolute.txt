@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.exe
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.deps.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\bin\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\refint\05.StackOfStrings.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\05.StackOfStrings.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\05.StackOfStrings\obj\Debug\net6.0\ref\05.StackOfStrings.dll

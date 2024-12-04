@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritanceexercise\\03.playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A3F702-A527-49D9-A669-31A7323E2809}|03.PlayersAndMonsters\\03.PlayersAndMonsters.csproj|solutionrelative:03.playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MuseElf.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\MuseElf.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\MuseElf.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\MuseElf.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\MuseElf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:07:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DarkWizard.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\DarkWizard.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\DarkWizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:07:05.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DarkKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\DarkKnight.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\DarkKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:07:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\SoulMaster.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\SoulMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:07:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BladeKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\BladeKnight.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\BladeKnight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:07:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\StartUp.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\StartUp.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:05:45.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Knight.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\Knight.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Knight.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:06:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Wizard.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\Wizard.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Wizard.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:06:54.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Elf.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\Elf.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Elf.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\Elf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:06:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Hero.cs",
+              "RelativeDocumentMoniker": "03.PlayersAndMonsters\\Hero.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceExercise\\03.PlayersAndMonsters\\Hero.cs",
+              "RelativeToolTip": "03.PlayersAndMonsters\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:06:47.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

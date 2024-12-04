@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|c:\\users\\deyan\\source\\repos\\oop\\01.abstractiondemo\\abstractiondemo\\03_hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|solutionrelative:03_hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|c:\\users\\deyan\\source\\repos\\oop\\01.abstractiondemo\\abstractiondemo\\03_hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|solutionrelative:03_hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|c:\\users\\deyan\\source\\repos\\oop\\01.abstractiondemo\\abstractiondemo\\03_hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|solutionrelative:03_hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|c:\\users\\deyan\\source\\repos\\oop\\01.abstractiondemo\\abstractiondemo\\03_hospital\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9F53C7-9856-4F04-A772-0D6351BE386D}|03_Hospital\\03_Hospital.csproj|solutionrelative:03_hospital\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Department.cs",
+              "RelativeDocumentMoniker": "03_Hospital\\Department.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Department.cs",
+              "RelativeToolTip": "03_Hospital\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:52:51.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Patient.cs",
+              "RelativeDocumentMoniker": "03_Hospital\\Patient.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Patient.cs",
+              "RelativeToolTip": "03_Hospital\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:46:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Doctor.cs",
+              "RelativeDocumentMoniker": "03_Hospital\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\Doctor.cs",
+              "RelativeToolTip": "03_Hospital\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:45:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\StartUp.cs",
+              "RelativeDocumentMoniker": "03_Hospital\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\01.AbstractionDemo\\AbstractionDemo\\03_Hospital\\StartUp.cs",
+              "RelativeToolTip": "03_Hospital\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:43:08.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

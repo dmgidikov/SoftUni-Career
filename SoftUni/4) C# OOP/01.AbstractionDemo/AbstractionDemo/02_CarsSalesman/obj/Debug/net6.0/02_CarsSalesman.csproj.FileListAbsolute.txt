@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\bin\Debug\net6.0\02_CarsSalesman.exe
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\bin\Debug\net6.0\02_CarsSalesman.deps.json
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\bin\Debug\net6.0\02_CarsSalesman.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\bin\Debug\net6.0\02_CarsSalesman.dll
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\bin\Debug\net6.0\02_CarsSalesman.pdb
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.dll
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\refint\02_CarsSalesman.dll
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.pdb
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\02_CarsSalesman.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\01.AbstractionDemo\AbstractionDemo\02_CarsSalesman\obj\Debug\net6.0\ref\02_CarsSalesman.dll

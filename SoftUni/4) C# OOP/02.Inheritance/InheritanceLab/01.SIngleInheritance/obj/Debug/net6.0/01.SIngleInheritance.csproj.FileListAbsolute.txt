@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\bin\Debug\net6.0\01.SIngleInheritance.exe
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\bin\Debug\net6.0\01.SIngleInheritance.deps.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\bin\Debug\net6.0\01.SIngleInheritance.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\bin\Debug\net6.0\01.SIngleInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\bin\Debug\net6.0\01.SIngleInheritance.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\refint\01.SIngleInheritance.dll
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.pdb
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\01.SIngleInheritance.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\02.Inheritance\InheritanceLab\01.SIngleInheritance\obj\Debug\net6.0\ref\01.SIngleInheritance.dll

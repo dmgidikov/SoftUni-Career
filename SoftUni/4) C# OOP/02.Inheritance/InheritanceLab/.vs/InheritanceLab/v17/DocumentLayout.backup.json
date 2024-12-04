@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CEEE32-CCFC-443D-88C0-576267DC4785}|05.StackOfStrings\\05.StackOfStrings.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\05.stackofstrings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CEEE32-CCFC-443D-88C0-576267DC4785}|05.StackOfStrings\\05.StackOfStrings.csproj|solutionrelative:05.stackofstrings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CEEE32-CCFC-443D-88C0-576267DC4785}|05.StackOfStrings\\05.StackOfStrings.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\05.stackofstrings\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CEEE32-CCFC-443D-88C0-576267DC4785}|05.StackOfStrings\\05.StackOfStrings.csproj|solutionrelative:05.stackofstrings\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C1CB5F-7F25-4BE7-AA95-D25F6390031A}|04.RandomList\\04.RandomList.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\04.randomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C1CB5F-7F25-4BE7-AA95-D25F6390031A}|04.RandomList\\04.RandomList.csproj|solutionrelative:04.randomlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C1CB5F-7F25-4BE7-AA95-D25F6390031A}|04.RandomList\\04.RandomList.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\04.randomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C1CB5F-7F25-4BE7-AA95-D25F6390031A}|04.RandomList\\04.RandomList.csproj|solutionrelative:04.randomlist\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\03.hierarchialinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|solutionrelative:03.hierarchialinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\03.hierarchialinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|solutionrelative:03.hierarchialinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\03.hierarchialinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|solutionrelative:03.hierarchialinheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\03.hierarchialinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13266159-FDB8-4661-B7C6-B0EA3B6D2EBD}|03.HierarchialInheritance\\03.HierarchialInheritance.csproj|solutionrelative:03.hierarchialinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\02.multipleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|solutionrelative:02.multipleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\02.multipleinheritance\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|solutionrelative:02.multipleinheritance\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\02.multipleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|solutionrelative:02.multipleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\02.multipleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C8B0D0-8D10-4844-BC56-377DFE5A6777}|02.MultipleInheritance\\02.MultipleInheritance.csproj|solutionrelative:02.multipleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\01.singleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|solutionrelative:01.singleinheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\01.singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|solutionrelative:01.singleinheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|c:\\users\\deyan\\source\\repos\\oop\\02.inheritance\\inheritancelab\\01.singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B1BA52-5033-4777-B0A4-73878EF08184}|01.SIngleInheritance\\01.SIngleInheritance.csproj|solutionrelative:01.singleinheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\05.StackOfStrings\\CustomStack.cs",
+              "RelativeDocumentMoniker": "05.StackOfStrings\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\05.StackOfStrings\\CustomStack.cs*",
+              "RelativeToolTip": "05.StackOfStrings\\CustomStack.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:35:12.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\05.StackOfStrings\\StartUp.cs",
+              "RelativeDocumentMoniker": "05.StackOfStrings\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\05.StackOfStrings\\StartUp.cs",
+              "RelativeToolTip": "05.StackOfStrings\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:30:58.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomList.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\04.RandomList\\RandomList.cs",
+              "RelativeDocumentMoniker": "04.RandomList\\RandomList.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\04.RandomList\\RandomList.cs",
+              "RelativeToolTip": "04.RandomList\\RandomList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:21:45.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\04.RandomList\\StartUp.cs",
+              "RelativeDocumentMoniker": "04.RandomList\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\04.RandomList\\StartUp.cs",
+              "RelativeToolTip": "04.RandomList\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:21:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "03.HierarchialInheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Animal.cs",
+              "RelativeToolTip": "03.HierarchialInheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:17:40.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Cat.cs",
+              "RelativeDocumentMoniker": "03.HierarchialInheritance\\Cat.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Cat.cs",
+              "RelativeToolTip": "03.HierarchialInheritance\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:17:13.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "03.HierarchialInheritance\\Dog.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\Dog.cs",
+              "RelativeToolTip": "03.HierarchialInheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:17:11.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\StartUp.cs",
+              "RelativeDocumentMoniker": "03.HierarchialInheritance\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\03.HierarchialInheritance\\StartUp.cs",
+              "RelativeToolTip": "03.HierarchialInheritance\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:16:01.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Puppy.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Puppy.cs",
+              "RelativeDocumentMoniker": "02.MultipleInheritance\\Puppy.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Puppy.cs",
+              "RelativeToolTip": "02.MultipleInheritance\\Puppy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:11:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "02.MultipleInheritance\\Dog.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Dog.cs",
+              "RelativeToolTip": "02.MultipleInheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:11:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "02.MultipleInheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\Animal.cs",
+              "RelativeToolTip": "02.MultipleInheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:11:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.MultipleInheritance\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\02.MultipleInheritance\\StartUp.cs",
+              "RelativeToolTip": "02.MultipleInheritance\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:10:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "01.SIngleInheritance\\Dog.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\Dog.cs",
+              "RelativeToolTip": "01.SIngleInheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:04:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "01.SIngleInheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\Animal.cs",
+              "RelativeToolTip": "01.SIngleInheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:04:16.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.SIngleInheritance\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\02.Inheritance\\InheritanceLab\\01.SIngleInheritance\\StartUp.cs",
+              "RelativeToolTip": "01.SIngleInheritance\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:02:55.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
