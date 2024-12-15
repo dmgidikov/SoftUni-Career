@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E523A9C9-F550-4894-BAD3-74958CF3C63B}|03,ValidationOfData\\03,ValidationOfData.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\03,validationofdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E523A9C9-F550-4894-BAD3-74958CF3C63B}|03,ValidationOfData\\03,ValidationOfData.csproj|solutionrelative:03,validationofdata\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155CBC5E-82DA-404B-9775-B05A86F9E544}|02.SalaryIncrease\\02.SalaryIncrease.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\02.salaryincrease\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155CBC5E-82DA-404B-9775-B05A86F9E544}|02.SalaryIncrease\\02.SalaryIncrease.csproj|solutionrelative:02.salaryincrease\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E523A9C9-F550-4894-BAD3-74958CF3C63B}|03,ValidationOfData\\03,ValidationOfData.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\03,validationofdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E523A9C9-F550-4894-BAD3-74958CF3C63B}|03,ValidationOfData\\03,ValidationOfData.csproj|solutionrelative:03,validationofdata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155CBC5E-82DA-404B-9775-B05A86F9E544}|02.SalaryIncrease\\02.SalaryIncrease.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\02.salaryincrease\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155CBC5E-82DA-404B-9775-B05A86F9E544}|02.SalaryIncrease\\02.SalaryIncrease.csproj|solutionrelative:02.salaryincrease\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A7E42B-711D-4D89-939E-705F5EFCAD73}|01.SortPersonByNameAndAge\\01.SortPersonByNameAndAge.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\01.sortpersonbynameandage\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A7E42B-711D-4D89-939E-705F5EFCAD73}|01.SortPersonByNameAndAge\\01.SortPersonByNameAndAge.csproj|solutionrelative:01.sortpersonbynameandage\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A7E42B-711D-4D89-939E-705F5EFCAD73}|01.SortPersonByNameAndAge\\01.SortPersonByNameAndAge.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationlab\\encapsulationlab\\01.sortpersonbynameandage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A7E42B-711D-4D89-939E-705F5EFCAD73}|01.SortPersonByNameAndAge\\01.SortPersonByNameAndAge.csproj|solutionrelative:01.sortpersonbynameandage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\03,ValidationOfData\\Person.cs",
+              "RelativeDocumentMoniker": "03,ValidationOfData\\Person.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\03,ValidationOfData\\Person.cs",
+              "RelativeToolTip": "03,ValidationOfData\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:51:10.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\03,ValidationOfData\\StartUp.cs",
+              "RelativeDocumentMoniker": "03,ValidationOfData\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\03,ValidationOfData\\StartUp.cs",
+              "RelativeToolTip": "03,ValidationOfData\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:49:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\02.SalaryIncrease\\Person.cs",
+              "RelativeDocumentMoniker": "02.SalaryIncrease\\Person.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\02.SalaryIncrease\\Person.cs",
+              "RelativeToolTip": "02.SalaryIncrease\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:36:36.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\02.SalaryIncrease\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.SalaryIncrease\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\02.SalaryIncrease\\StartUp.cs",
+              "RelativeToolTip": "02.SalaryIncrease\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:35:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\01.SortPersonByNameAndAge\\Person.cs",
+              "RelativeDocumentMoniker": "01.SortPersonByNameAndAge\\Person.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\01.SortPersonByNameAndAge\\Person.cs",
+              "RelativeToolTip": "01.SortPersonByNameAndAge\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:27:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\01.SortPersonByNameAndAge\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.SortPersonByNameAndAge\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationLab\\EncapsulationLab\\01.SortPersonByNameAndAge\\StartUp.cs",
+              "RelativeToolTip": "01.SortPersonByNameAndAge\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:20:51.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.exe
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.deps.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\refint\05.FootballTeamGenerator.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationExercise\EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\net6.0\ref\05.FootballTeamGenerator.dll

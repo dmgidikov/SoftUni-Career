@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\bin\Debug\net6.0\01.SortPersonByNameAndAge.exe
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\bin\Debug\net6.0\01.SortPersonByNameAndAge.deps.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\bin\Debug\net6.0\01.SortPersonByNameAndAge.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\bin\Debug\net6.0\01.SortPersonByNameAndAge.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\bin\Debug\net6.0\01.SortPersonByNameAndAge.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\refint\01.SortPersonByNameAndAge.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\01.SortPersonByNameAndAge.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\01.SortPersonByNameAndAge\obj\Debug\net6.0\ref\01.SortPersonByNameAndAge.dll

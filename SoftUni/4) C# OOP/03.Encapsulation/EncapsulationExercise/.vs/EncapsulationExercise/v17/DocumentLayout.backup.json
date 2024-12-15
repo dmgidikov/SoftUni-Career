@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationexercise\\encapsulationexercise\\05.footballteamgenerator\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|solutionrelative:05.footballteamgenerator\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationexercise\\encapsulationexercise\\05.footballteamgenerator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|solutionrelative:05.footballteamgenerator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|c:\\users\\deyan\\source\\repos\\oop\\03.encapsulation\\encapsulationexercise\\encapsulationexercise\\05.footballteamgenerator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C1FF65-F678-48D5-A83B-D4667B14983F}|05.FootballTeamGenerator\\05.FootballTeamGenerator.csproj|solutionrelative:05.footballteamgenerator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "05.FootballTeamGenerator\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\Models\\Player.cs",
+              "RelativeToolTip": "05.FootballTeamGenerator\\Models\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:43:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\StartUp.cs",
+              "RelativeDocumentMoniker": "05.FootballTeamGenerator\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\StartUp.cs",
+              "RelativeToolTip": "05.FootballTeamGenerator\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:54:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "05.FootballTeamGenerator\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\03.Encapsulation\\EncapsulationExercise\\EncapsulationExercise\\05.FootballTeamGenerator\\Models\\Team.cs*",
+              "RelativeToolTip": "05.FootballTeamGenerator\\Models\\Team.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:38:54.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

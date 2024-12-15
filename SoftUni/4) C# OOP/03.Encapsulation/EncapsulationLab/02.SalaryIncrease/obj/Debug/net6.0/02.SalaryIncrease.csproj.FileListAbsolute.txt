@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\bin\Debug\net6.0\02.SalaryIncrease.exe
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\bin\Debug\net6.0\02.SalaryIncrease.deps.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\bin\Debug\net6.0\02.SalaryIncrease.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\bin\Debug\net6.0\02.SalaryIncrease.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\bin\Debug\net6.0\02.SalaryIncrease.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\refint\02.SalaryIncrease.dll
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.pdb
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\02.SalaryIncrease.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\03.Encapsulation\EncapsulationLab\EncapsulationLab\02.SalaryIncrease\obj\Debug\net6.0\ref\02.SalaryIncrease.dll
