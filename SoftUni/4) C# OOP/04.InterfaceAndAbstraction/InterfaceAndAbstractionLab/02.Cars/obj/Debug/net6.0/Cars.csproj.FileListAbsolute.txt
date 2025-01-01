@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll

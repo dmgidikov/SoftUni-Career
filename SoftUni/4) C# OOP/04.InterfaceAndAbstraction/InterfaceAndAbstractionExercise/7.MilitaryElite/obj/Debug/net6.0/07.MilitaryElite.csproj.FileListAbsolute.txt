@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.exe
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.deps.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\bin\Debug\net6.0\07.MilitaryElite.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\refint\07.MilitaryElite.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\07.MilitaryElite.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\7.MilitaryElite\obj\Debug\net6.0\ref\07.MilitaryElite.dll

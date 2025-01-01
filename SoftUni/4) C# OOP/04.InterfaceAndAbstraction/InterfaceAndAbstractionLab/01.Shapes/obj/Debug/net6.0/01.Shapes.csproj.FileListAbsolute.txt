@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\bin\Debug\net6.0\01.Shapes.exe
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\bin\Debug\net6.0\01.Shapes.deps.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\bin\Debug\net6.0\01.Shapes.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\bin\Debug\net6.0\01.Shapes.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\bin\Debug\net6.0\01.Shapes.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\refint\01.Shapes.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\01.Shapes.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionLab\04.InterfaceAndAbstraction\01.Shapes\obj\Debug\net6.0\ref\01.Shapes.dll

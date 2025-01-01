@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\bin\Debug\net6.0\01.PersonInfo.exe
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\bin\Debug\net6.0\01.PersonInfo.deps.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\bin\Debug\net6.0\01.PersonInfo.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\bin\Debug\net6.0\01.PersonInfo.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\bin\Debug\net6.0\01.PersonInfo.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\refint\01.PersonInfo.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\01.PersonInfo.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\01.PersonInfo\obj\Debug\net6.0\ref\01.PersonInfo.dll

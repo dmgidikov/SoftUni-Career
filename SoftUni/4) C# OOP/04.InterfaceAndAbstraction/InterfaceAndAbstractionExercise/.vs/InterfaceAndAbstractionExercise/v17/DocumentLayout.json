@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|c:\\users\\deyan\\source\\repos\\oop\\04.interfaceandabstraction\\interfaceandabstractionexercise\\interfaceandabstractionexercise\\7.militaryelite\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|solutionrelative:7.militaryelite\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|c:\\users\\deyan\\source\\repos\\oop\\04.interfaceandabstraction\\interfaceandabstractionexercise\\interfaceandabstractionexercise\\7.militaryelite\\models\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|solutionrelative:7.militaryelite\\models\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|c:\\users\\deyan\\source\\repos\\oop\\04.interfaceandabstraction\\interfaceandabstractionexercise\\interfaceandabstractionexercise\\7.militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2827548A-6F70-43E9-B2FF-B5DA38D4E3A5}|7.MilitaryElite\\07.MilitaryElite.csproj|solutionrelative:7.militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Private.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\Models\\Private.cs",
+              "RelativeDocumentMoniker": "7.MilitaryElite\\Models\\Private.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\Models\\Private.cs",
+              "RelativeToolTip": "7.MilitaryElite\\Models\\Private.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:39:21.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "7.MilitaryElite\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\Core\\Engine.cs",
+              "RelativeToolTip": "7.MilitaryElite\\Core\\Engine.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:39:21.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\StartUp.cs",
+              "RelativeDocumentMoniker": "7.MilitaryElite\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\04.InterfaceAndAbstraction\\InterfaceAndAbstractionExercise\\InterfaceAndAbstractionExercise\\7.MilitaryElite\\StartUp.cs",
+              "RelativeToolTip": "7.MilitaryElite\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:19:19.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

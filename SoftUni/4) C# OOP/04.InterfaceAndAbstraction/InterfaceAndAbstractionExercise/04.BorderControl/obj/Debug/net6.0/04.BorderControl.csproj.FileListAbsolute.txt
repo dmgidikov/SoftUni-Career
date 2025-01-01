@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\04.InterfaceAndAbstraction\InterfaceAndAbstractionExercise\InterfaceAndAbstractionExercise\BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll
