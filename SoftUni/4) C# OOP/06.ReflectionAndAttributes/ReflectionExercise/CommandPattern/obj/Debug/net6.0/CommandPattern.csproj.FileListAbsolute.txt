@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\06.ReflectionAndAttributes\ReflectionExercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
