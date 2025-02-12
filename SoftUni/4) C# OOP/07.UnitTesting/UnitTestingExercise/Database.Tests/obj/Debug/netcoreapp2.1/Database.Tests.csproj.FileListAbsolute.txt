@@ -1,0 +1,5 @@
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.AssemblyReference.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfoInputs.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.AssemblyInfo.cs
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database.Tests\obj\Debug\netcoreapp2.1\Database.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\bin\Debug\net8.0\UnitTestingBasics.exe
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\bin\Debug\net8.0\UnitTestingBasics.deps.json
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\bin\Debug\net8.0\UnitTestingBasics.runtimeconfig.json
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\bin\Debug\net8.0\UnitTestingBasics.dll
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\bin\Debug\net8.0\UnitTestingBasics.pdb
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.dll
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\refint\UnitTestingBasics.dll
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.pdb
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\UnitTestingBasics.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\OOP\UnitTestingLab\UnitTestingBasics\obj\Debug\net8.0\ref\UnitTestingBasics.dll

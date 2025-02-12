@@ -1,0 +1,16 @@
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\xunit.abstractions.dll
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\Database.deps.json
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\Database.dll
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\bin\Debug\net8.0\Database.pdb
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.dll
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\refint\Database.dll
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.pdb
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\Database\obj\Debug\net8.0\ref\Database.dll

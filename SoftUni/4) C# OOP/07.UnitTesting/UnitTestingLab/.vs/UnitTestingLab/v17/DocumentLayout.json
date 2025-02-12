@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1A5AE-4EA3-492C-A681-6CBE82FA1BEA}|Tests\\Tests.csproj|c:\\users\\deyan\\source\\repos\\oop\\unittestinglab\\tests\\testdummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1A5AE-4EA3-492C-A681-6CBE82FA1BEA}|Tests\\Tests.csproj|solutionrelative:tests\\testdummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|c:\\users\\deyan\\source\\repos\\oop\\unittestinglab\\unittestingbasics\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|solutionrelative:unittestingbasics\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|c:\\users\\deyan\\source\\repos\\oop\\unittestinglab\\unittestingbasics\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|solutionrelative:unittestingbasics\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|c:\\users\\deyan\\source\\repos\\oop\\unittestinglab\\unittestingbasics\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475E5455-3B3C-4EA7-85DC-C02FFB6B70C2}|UnitTestingBasics\\UnitTestingBasics.csproj|solutionrelative:unittestingbasics\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 386,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\Dummy.cs",
+              "RelativeDocumentMoniker": "UnitTestingBasics\\Dummy.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\Dummy.cs",
+              "RelativeToolTip": "UnitTestingBasics\\Dummy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:05:39.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDummy.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\Tests\\TestDummy.cs",
+              "RelativeDocumentMoniker": "Tests\\TestDummy.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\Tests\\TestDummy.cs",
+              "RelativeToolTip": "Tests\\TestDummy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:03:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\Axe.cs",
+              "RelativeDocumentMoniker": "UnitTestingBasics\\Axe.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\Axe.cs",
+              "RelativeToolTip": "UnitTestingBasics\\Axe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:32:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\StartUp.cs",
+              "RelativeDocumentMoniker": "UnitTestingBasics\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\OOP\\UnitTestingLab\\UnitTestingBasics\\StartUp.cs",
+              "RelativeToolTip": "UnitTestingBasics\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:30:12.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

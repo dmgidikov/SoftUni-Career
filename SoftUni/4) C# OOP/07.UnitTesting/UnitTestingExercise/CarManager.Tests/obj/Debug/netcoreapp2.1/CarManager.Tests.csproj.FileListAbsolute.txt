@@ -1,0 +1,5 @@
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.AssemblyReference.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+E:\SoftUni\C#\04.C# OOP\11.UnitTesting\exercises\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
