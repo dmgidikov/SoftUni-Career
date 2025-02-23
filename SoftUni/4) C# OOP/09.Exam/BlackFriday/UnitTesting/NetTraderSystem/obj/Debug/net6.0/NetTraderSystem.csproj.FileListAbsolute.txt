@@ -1,0 +1,14 @@
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.exe
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.deps.json
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.runtimeconfig.json
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfoInputs.cache
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfo.cs
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\refint\NetTraderSystem.dll
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.genruntimeconfig.cache
+C:\Users\Deyan\Downloads\C# exams\UnitTesting\NetTraderSystem\obj\Debug\net6.0\ref\NetTraderSystem.dll

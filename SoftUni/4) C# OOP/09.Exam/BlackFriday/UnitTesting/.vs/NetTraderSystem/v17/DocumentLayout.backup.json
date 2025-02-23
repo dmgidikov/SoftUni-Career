@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\Downloads\\C# exams\\UnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|c:\\users\\deyan\\downloads\\c# exams\\unittesting\\nettradersystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}|NetTraderSystem.Tests\\NetTraderSystem.Tests.csproj|solutionrelative:nettradersystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|c:\\users\\deyan\\downloads\\c# exams\\unittesting\\nettradersystem\\tradingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB8646-3007-45D2-BEA6-557B4F806BBD}|NetTraderSystem\\NetTraderSystem.csproj|solutionrelative:nettradersystem\\tradingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Deyan\\AppData\\Local\\Temp\\Rar$DIa3948.35628\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\AppData\\Local\\Temp\\Rar$DIa3948.35628\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3948.35628\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Deyan\\AppData\\Local\\Temp\\Rar$DIa3948.35628\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa3948.35628\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:27:27.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\C# exams\\UnitTesting\\NetTraderSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\C# exams\\UnitTesting\\NetTraderSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "NetTraderSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:30:18.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\C# exams\\UnitTesting\\NetTraderSystem\\TradingPlatform.cs",
+              "RelativeDocumentMoniker": "NetTraderSystem\\TradingPlatform.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\C# exams\\UnitTesting\\NetTraderSystem\\TradingPlatform.cs",
+              "RelativeToolTip": "NetTraderSystem\\TradingPlatform.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:22:35.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

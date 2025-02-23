@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\Downloads\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\repositories\\defensivesoftwarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\repositories\\defensivesoftwarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\repositories\\cyberattackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\repositories\\cyberattackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\models\\defensivesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\defensivesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\deyan\\downloads\\new folder\\cybersecurityds\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\utilities\\results\\actual.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CyberAttackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:03:44.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefensiveSoftware.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIA0wDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:03:44.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefensiveSoftwareRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:03:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Core\\Engine.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Core\\Engine.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:03:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actual.txt",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Utilities\\Results\\Actual.txt",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Utilities\\Results\\Actual.txt",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Utilities\\Results\\Actual.txt",
+              "RelativeToolTip": "CyberSecurityDS\\Utilities\\Results\\Actual.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T22:02:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Downloads\\New folder\\CyberSecurityDS\\Core\\Controller.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Core\\Controller.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAewGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:58:32.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

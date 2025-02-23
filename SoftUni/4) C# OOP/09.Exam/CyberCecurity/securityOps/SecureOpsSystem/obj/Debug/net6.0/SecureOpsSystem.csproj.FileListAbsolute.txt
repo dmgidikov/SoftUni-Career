@@ -1,0 +1,14 @@
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.exe
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.deps.json
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.runtimeconfig.json
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfoInputs.cache
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfo.cs
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\refint\SecureOpsSystem.dll
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.genruntimeconfig.cache
+C:\Users\Deyan\Downloads\New folder\securityOps\SecureOpsSystem\obj\Debug\net6.0\ref\SecureOpsSystem.dll

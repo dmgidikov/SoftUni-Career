@@ -1,0 +1,14 @@
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\bin\Debug\net8.0\SimpleSnake.exe
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\bin\Debug\net8.0\SimpleSnake.deps.json
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\bin\Debug\net8.0\SimpleSnake.runtimeconfig.json
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\bin\Debug\net8.0\SimpleSnake.dll
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\bin\Debug\net8.0\SimpleSnake.pdb
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.AssemblyInfoInputs.cache
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.AssemblyInfo.cs
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.csproj.CoreCompileInputs.cache
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.dll
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\refint\SimpleSnake.dll
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.pdb
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\SimpleSnake.genruntimeconfig.cache
+E:\SoftUni\C#\04.C# OOP\10.Workshop\Snake\SimpleSnake\obj\Debug\net8.0\ref\SimpleSnake.dll
