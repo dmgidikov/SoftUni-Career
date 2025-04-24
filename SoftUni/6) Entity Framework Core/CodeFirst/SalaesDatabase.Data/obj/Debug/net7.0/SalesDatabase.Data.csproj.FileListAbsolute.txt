@@ -1,5 +1,0 @@
-C:\Users\Deyan\source\repos\CodeFirst\SalaesDatabase.Data\obj\Debug\net7.0\SalesDatabase.Data.csproj.AssemblyReference.cache
-C:\Users\Deyan\source\repos\CodeFirst\SalaesDatabase.Data\obj\Debug\net7.0\SalesDatabase.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Deyan\source\repos\CodeFirst\SalaesDatabase.Data\obj\Debug\net7.0\SalesDatabase.Data.AssemblyInfoInputs.cache
-C:\Users\Deyan\source\repos\CodeFirst\SalaesDatabase.Data\obj\Debug\net7.0\SalesDatabase.Data.AssemblyInfo.cs
-C:\Users\Deyan\source\repos\CodeFirst\SalaesDatabase.Data\obj\Debug\net7.0\SalesDatabase.Data.csproj.CoreCompileInputs.cache

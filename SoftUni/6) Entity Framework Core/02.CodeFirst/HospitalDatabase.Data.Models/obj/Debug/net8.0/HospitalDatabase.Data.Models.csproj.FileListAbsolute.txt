@@ -1,0 +1,14 @@
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\bin\Debug\net8.0\HospitalDatabase.Data.Models.deps.json
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\bin\Debug\net8.0\HospitalDatabase.Data.Models.runtimeconfig.json
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\bin\Debug\net8.0\HospitalDatabase.Data.Models.dll
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\bin\Debug\net8.0\HospitalDatabase.Data.Models.pdb
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.dll
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\refint\HospitalDatabase.Data.Models.dll
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.pdb
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\HospitalDatabase.Data.Models.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\EFC\CodeFirst\HospitalDatabase.Data.Models\obj\Debug\net8.0\ref\HospitalDatabase.Data.Models.dll
