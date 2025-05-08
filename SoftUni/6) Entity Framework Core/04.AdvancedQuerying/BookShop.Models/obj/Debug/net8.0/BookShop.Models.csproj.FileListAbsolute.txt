@@ -1,0 +1,11 @@
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\bin\Debug\net8.0\BookShop.Models.deps.json
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\bin\Debug\net8.0\BookShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\bin\Debug\net8.0\BookShop.Models.pdb
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\refint\BookShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\BookShop.Models.pdb
+C:\Users\Deyan\source\repos\EFC\AdvancedQuerying\BookShop.Models\obj\Debug\net8.0\ref\BookShop.Models.dll

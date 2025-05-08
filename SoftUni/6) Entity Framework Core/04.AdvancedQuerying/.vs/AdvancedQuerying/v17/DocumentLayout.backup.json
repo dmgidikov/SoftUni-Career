@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22C01E7-7AF4-4341-A4B9-C32BBCD9E764}|BookShop\\BookShop.csproj|c:\\users\\deyan\\source\\repos\\efc\\advancedquerying\\bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22C01E7-7AF4-4341-A4B9-C32BBCD9E764}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAE70-E8A7-4FE6-B204-2E53E3E7249A}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\deyan\\source\\repos\\efc\\advancedquerying\\bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAE70-E8A7-4FE6-B204-2E53E3E7249A}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAE70-E8A7-4FE6-B204-2E53E3E7249A}|BookShop.Models\\BookShop.Models.csproj|c:\\users\\deyan\\source\\repos\\efc\\advancedquerying\\bookshop.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAE70-E8A7-4FE6-B204-2E53E3E7249A}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop.Models\\Category.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop.Models\\Category.cs",
+              "RelativeToolTip": "BookShop.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:14:32.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop.Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop.Models\\Book.cs",
+              "RelativeToolTip": "BookShop.Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:06:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\EFC\\AdvancedQuerying\\BookShop\\StartUp.cs",
+              "RelativeToolTip": "BookShop\\StartUp.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwE4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:38:32.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
