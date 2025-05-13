@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FastFood.Web
+build_property.ProjectDir = E:\SoftUni\Passed\06. Entity Framework Core\Passed\09.Auto-Mapping\Skeleton\FastFood.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
