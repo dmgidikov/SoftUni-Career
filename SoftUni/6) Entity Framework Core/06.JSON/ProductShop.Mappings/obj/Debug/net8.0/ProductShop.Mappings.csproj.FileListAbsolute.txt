@@ -1,0 +1,17 @@
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Mappings.deps.json
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Mappings.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Mappings.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Dtos.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Dtos.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\bin\Debug\net8.0\ProductShop.Models.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductS.8E370413.Up2Date
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\refint\ProductShop.Mappings.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ProductShop.Mappings.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Mappings\obj\Debug\net8.0\ref\ProductShop.Mappings.dll

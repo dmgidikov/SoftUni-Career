@@ -1,0 +1,11 @@
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\bin\Debug\net8.0\ProductShop.Dtos.deps.json
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\bin\Debug\net8.0\ProductShop.Dtos.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\bin\Debug\net8.0\ProductShop.Dtos.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\refint\ProductShop.Dtos.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ProductShop.Dtos.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Dtos\obj\Debug\net8.0\ref\ProductShop.Dtos.dll

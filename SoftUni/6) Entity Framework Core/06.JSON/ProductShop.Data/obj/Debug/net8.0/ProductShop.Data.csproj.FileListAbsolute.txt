@@ -1,0 +1,17 @@
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Data.deps.json
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Data.runtimeconfig.json
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Data.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Data.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\bin\Debug\net8.0\ProductShop.Models.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductS.208D0C47.Up2Date
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\refint\ProductShop.Data.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ProductShop.Data.genruntimeconfig.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Data\obj\Debug\net8.0\ref\ProductShop.Data.dll

@@ -1,0 +1,15 @@
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\bin\Debug\net8.0\ProductShop.Services.deps.json
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\bin\Debug\net8.0\ProductShop.Services.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\bin\Debug\net8.0\ProductShop.Services.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\bin\Debug\net8.0\ProductShop.Models.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\bin\Debug\net8.0\ProductShop.Models.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.csproj.AssemblyReference.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.AssemblyInfoInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.AssemblyInfo.cs
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductS.E679890E.Up2Date
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\refint\ProductShop.Services.dll
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ProductShop.Services.pdb
+C:\Users\Deyan\source\repos\EFC\06.JSON\JSON\ProductShop.Services\obj\Debug\net8.0\ref\ProductShop.Services.dll
