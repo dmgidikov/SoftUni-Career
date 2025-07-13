@@ -1,0 +1,14 @@
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\bin\Debug\net8.0\SchoolCompetition.exe
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\bin\Debug\net8.0\SchoolCompetition.deps.json
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\bin\Debug\net8.0\SchoolCompetition.runtimeconfig.json
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\bin\Debug\net8.0\SchoolCompetition.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\bin\Debug\net8.0\SchoolCompetition.pdb
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.AssemblyInfoInputs.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.AssemblyInfo.cs
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\refint\SchoolCompetition.dll
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.pdb
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\SchoolCompetition.genruntimeconfig.cache
+C:\Users\Deyan\Documents\Coding\Visual Studio\C# Web\IntroToDotNet\Introduction\SchoolCompetition\obj\Debug\net8.0\ref\SchoolCompetition.dll
