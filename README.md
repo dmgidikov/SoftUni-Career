@@ -22,12 +22,4 @@ Every course is set as a separate one in different folder.
 
 :white_check_mark: ASP.NET FUNDAMENTALS!
 
-
-**Curently working on:**
-
-:pencil:  ASP.NET ADVANCED!
-
-
-**Оn the tail:**
-
-⏳ JS FRONT-END!
+:white_check_mark: ASP.NET ADVANCED!
