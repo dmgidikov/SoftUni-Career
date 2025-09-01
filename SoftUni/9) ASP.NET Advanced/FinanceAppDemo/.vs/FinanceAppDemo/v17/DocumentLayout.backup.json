@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\data\\services\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\services\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|c:\\users\\deyan\\documents\\coding\\git\\financeappdemo\\financeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A0A2C-A8BD-47BD-A592-47377027137F}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinanceApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:41:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpensesService.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Services\\ExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:41:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:41:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T12:41:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T12:41:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Deyan\\Documents\\Coding\\GIT\\FinanceAppDemo\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "FinanceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:40:59.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
